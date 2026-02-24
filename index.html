@@ -1,14 +1,274 @@
 <!DOCTYPE html>
 <html lang='id'>
 <head>
-  <meta charset='utf-8'>
-  <meta http-equiv='refresh' content='0; url=https://kageen.my.id/join'>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-  <title>Kagenou Family - Page</title>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'/>
 
-  <script>
-    window.location.replace('https://kageen.my.id/join');
-  </script>
+    <title>Kagenou Family</title>
+    <meta name='description' content='Sebuah marga para kreator anime.'>
+
+    <link href='https://fonts.cdnfonts.com/css/satoshi' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap' rel='stylesheet'>
+
+    <link rel='stylesheet' href='assets/index.css?v=2'>
 </head>
-<body></body>
-</html>
+<body class='no-scroll'>
+    <div id='pageLoader' class='page-loader'>
+        <div class='spinner'></div>
+    </div>
+
+    <div class='hero-section'>
+        <div class='container'>
+            <div class='card-wrapper'>
+                <img src='assets/pfp-generation-1.jpg' class='card'>
+                <img src='assets/pfp-community.jpg' class='card'>
+                <img src='assets/pfp-generation-2.jpg' class='card'>
+            </div>
+
+            <h1>Kagenou Family</h1>
+            <p>Sebuah marga editor para kreator anime.</p>
+
+            <div class='btn-wrapper'>
+                <a href='#konten' class='btn btn-primary btn-jelajah'>
+                    <svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='10'></circle><polygon points='16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76'></polygon></svg>
+                    Jelajahi
+                </a>
+                <a href='#' class='btn btn-secondary'>
+                    <svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9'></path><path d='M13.73 21a2 2 0 0 1-3.46 0'></path></svg>
+                    Info
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id='modalInfo' class='modal'>
+        <div class='modal-content'>
+            <h2>Informasi Kagenou</h2>
+            <p>Selalu Open Member, Gas Join!</p>
+        </div>
+    </div>
+
+   <div id='konten'>
+    <div class='slider'>
+        <div class='slide active'>
+            <img src='assets/pfp-generation-1.jpg'>
+            <h2>Kagenou Family Gen 1</h2>
+            <p>Gen khusus follower tinggi. sepi bet njir 😹</p>
+        </div>
+
+        <div class='slide'>
+            <img src='assets/pfp-generation-2.jpg'>
+            <h2>Kagenou Family Gen 2</h2>
+            <p>Gen khusus pemula. banyak anomali 😹</p>
+        </div>
+
+       <button class='prev'>‹</button>
+       <button class='next'>›</button>
+    </div>
+
+    <section id='member-count'>
+        <h2>Jumlah Member Kagenou</h2>
+
+        <div class='glass-table'>
+            <table>
+            <tbody class='member-table-body'>
+            </tbody>
+            </table>
+        </div>
+
+        <button class='btn-daftar'>
+            <svg xmlns='http://www.w3.org/2000/svg'
+                width='18'
+                height='18'
+                viewBox='0 0 24 24'
+                fill='none'
+                stroke='currentColor'
+                stroke-width='1.5'
+                stroke-linecap='round'
+                stroke-linejoin='round'>
+            <circle cx='12' cy='7' r='4'></circle>
+            <path d='M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2'></path>
+            </svg>Daftar Member
+        </button>
+
+        <a href='http://kageen.my.id/join' target='_blank' rel='noopener' class='btn-join'>
+            <svg xmlns='http://www.w3.org/2000/svg'
+                width='18'
+                height='18'
+                viewBox='0 0 24 24'
+                fill='none'
+                stroke='currentColor'
+                stroke-width='1.5'
+                stroke-linecap='round'
+                stroke-linejoin='round'>
+                <path d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6'></path>
+                <polyline points='15 3 21 3 21 9'></polyline>
+                <line x1='10' y1='14' x2='21' y2='3'></line>
+            </svg>
+            Join
+        </a>
+    </section>
+  </div>
+
+  <div id='modalMember' class='modal'>
+    <div class='modal-content modal-member-content'>
+        <h2>Daftar Member Kagenou</h2>
+
+        <input 
+        type='text' 
+        class='member-search' 
+        placeholder='Cari username ...'
+        >
+
+        <div class='member-list-container'>
+        <ul class='member-list'></ul>
+        </div>
+
+        <p class='member-count-text'>
+            Jumlah Member Saat Ini : <span class='member-total'>0</span>
+        </p>
+        <p class='member-footer'>
+            Data ini dari Sumika, verifikasi jika belum ada.
+        </p>
+    </div>
+  </div>
+
+  <div id='modalDetail' class='modal-detail'>
+    <div class='modal-content modal-detail-content'>
+        <h2 class='detail-title'>Informasi Member</h2>
+
+        <div class='detail-content'>
+            <img class='detail-avatar' src='' alt='avatar'>
+
+            <h3 class='detail-name'></h3>
+            <p class='detail-username'></p>
+
+            <p class='detail-bio'></p>
+
+            <div class='detail-stats'>
+                <p class='detail-followers'></p>
+                <p class='detail-following'></p>
+                <p class='detail-likes'></p>
+                <p class='detail-videos'></p>
+            </div>
+        </div>
+    </div>
+  </div>
+
+  <div id='loadingOverlay' class='loading-overlay'>
+    <div class='spinner'></div>
+  </div>
+
+  <section class='top-member-section'>
+    <h2>Top Member Kagenou</h2>
+    <div id='top-member-list' class='top-member-list'></div>
+  </section>
+
+  <section class='subadmin-section'>
+    <h2>Admin of Kagenou</h2>
+
+    <div class='subadmin-wrapper'>
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-sidzz.png'>
+            <h3>Sidzz</h3>
+            <p class='sub-role'>Collab Member</p>
+            <p class='sub-tag'>𝙎𝙞𝙙𝙯𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪メ</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-riye.png'>
+            <h3>Riye</h3>
+            <p class='sub-role'>Collab Member</p>
+            <p class='sub-tag'>𝙍𝙞𝙮𝙚𝙥𝙧𝙨𝙩 ft 𝙂𝘾</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-indra.png'>
+            <h3>Indra</h3>
+            <p class='sub-role'>Bot & Editor</p>
+            <p class='sub-tag'>『𝙓𝙁』Rizzuy〆𝙆𝙂𝙉`𝐍𝐂𝐀᭄</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-vinz.png'>
+            <h3>Vinz</h3>
+            <p class='sub-role'>Meme Video</p>
+            <p class='sub-tag'>—𝗩𝗶𝗻𝘇 𝙆𝙂𝙉 𝖋𝖙` 𝘾𝙉𝙇</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-kram.png'>
+            <h3>Kram</h3>
+            <p class='sub-role'>Collab Member</p>
+            <p class='sub-tag'>𝙆𝙧𝙖𝙢 𝖋𝖙 𝙆𝙂𝙉 ft 𝙎𝙇𝙑</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-sora.png'>
+            <h3>Sora Senpai</h3>
+            <p class='sub-role'>Bot & Security</p>
+            <p class='sub-tag'>𝙎𝙤𝙧𝙖𝙒𝙖𝙣𝙜𝙮𝙮 ft 𝗔𝗣</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-ryy.png'>
+            <h3>Ryy Sensei</h3>
+            <p class='sub-role'>Owner Kagenou</p>
+            <p class='sub-tag'>𝙍𝙮𝙮𝙆𝙖𝙜𝙚𝙣𝙤𝙪`𝐍𝐂𝐀</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-ranz.png'>
+            <h3>Ranz Hengker</h3>
+            <p class='sub-role'>Bot & Security</p>
+            <p class='sub-tag'>𝙍𝙖𝙣𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪`𝐍𝐂𝐀</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-ciel.png'>
+            <h3>Ciel</h3>
+            <p class='sub-role'>Collab Member</p>
+            <p class='sub-tag'>𝐍𝐂𝐀᭄𝘾𝙞𝙚𝙡𝙣 𝖋𝖙 𝙆𝙂𝙉</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-fyuze.png'>
+            <h3>Fyuze</h3>
+            <p class='sub-role'>Bot & Editor</p>
+            <p class='sub-tag'>𝙁𝙮𝙪𝙯𝙚𝙆𝙮𝙤𝙠𝙚𝙣`ft 𝙂𝘾</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-ann.png'>
+            <h3>Ann</h3>
+            <p class='sub-role'>Posted Video</p>
+            <p class='sub-tag'>—𝗩𝗶𝗻𝘇 𝙆𝙂𝙉 𝖋𝖙` 𝘾𝙉𝙇</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-frans.png'>
+            <h3>Frans</h3>
+            <p class='sub-role'>Collab Member</p>
+            <p class='sub-tag'>𝙁𝙧𝙖𝙣𝙯𝙠𝙮𝙮〆𝙆𝙂𝙉✰</p>
+        </div>
+
+        <div class='subadmin-card'>
+            <img src='assets/admin/chibi-mahess.png'>
+            <h3>Mahess</h3>
+            <p class='sub-role'>Selection Member</p>
+            <p class='sub-tag'>𝙆𝙂𝙉 | 𝐇𝙚𝙨𝙨`</p>
+        </div>
+    </div>
+  </section>
+
+  <footer class='kage-footer'>
+    <div class='footer-content'>
+        <p>2026 © Kagenou Family. All rights reserved.</p>
+        <p class='footer-credit'>
+        Made with ❤️ by Sora Senpai
+        </p>
+    </div>
+  </footer>
+
+  <script src='./assets/index.js'></script>
+</body>
