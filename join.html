@@ -26,21 +26,27 @@
 
     body {
       margin: 0;
+      padding: 0;
+      background-color: #0d0d0d;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+        linear-gradient(to bottom, #1c1c1c 0%, #141414 40%, #0d0d0d 100%);
+      background-size: 80px 80px, 80px 80px, 100% 100%;
+      color: #eeeeee;
+      font-family: 'Satoshi', 'JetBrains Mono', sans-serif;
       min-height: 100vh;
       display: flex;
       flex-direction: column;
-      align-items: center;
       justify-content: center;
-      background-color: #0f0f10;
-      font-family: 'JetBrains Mono', monospace;
-      color: #ffffff;
+      align-items: center;
     }
 
     .card {
       padding: 22px 30px;
       text-align: center;
       background: rgba(25, 25, 28, 0.65);
-      backdrop-filter: blur(22px);
+      backdrop-filter: blur(1px);
       -webkit-backdrop-filter: blur(22px);
       border-radius: 22px;
       border: 1px solid rgba(255, 255, 255, 0.35);
@@ -267,4 +273,3 @@
     });
   </script>
 </body>
-
