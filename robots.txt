@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kageen.my.id/sitemap.xml
