@@ -16,6 +16,7 @@ body {
   align-items: center;
   text-align: center;
   overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
