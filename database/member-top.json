@@ -12,7 +12,7 @@
   {
     "name": "vin",
     "level": 1054,
-    "exp": 194719
+    "exp": 195870
   },
   {
     "name": "Jraa Hikari 愛",
@@ -52,7 +52,7 @@
   {
     "name": "𝙈𝙞𝙚",
     "level": 501,
-    "exp": 3327
+    "exp": 13622
   },
   {
     "name": "innocence.",
@@ -92,12 +92,12 @@
   {
     "name": "Lict",
     "level": 341,
-    "exp": 53360
+    "exp": 56218
   },
   {
     "name": "Frans Senpai.",
     "level": 326,
-    "exp": 40488
+    "exp": 40858
   },
   {
     "name": "Kepada Yth. Nanoo𖡎",
@@ -202,7 +202,7 @@
   {
     "name": "CielTempest.",
     "level": 204,
-    "exp": 1472
+    "exp": 21382
   },
   {
     "name": "Si White",
@@ -417,7 +417,7 @@
   {
     "name": "dikzznewera",
     "level": 93,
-    "exp": 9870
+    "exp": 15117
   },
   {
     "name": "meilin xiaoxe`",
@@ -447,7 +447,7 @@
   {
     "name": "𝐉𝐞𝐢𝐋🍀",
     "level": 76,
-    "exp": 11917
+    "exp": 13985
   },
   {
     "name": "Kepada Yth. Zenn",
@@ -507,7 +507,7 @@
   {
     "name": "Toka Keneddy",
     "level": 62,
-    "exp": 8135
+    "exp": 11201
   },
   {
     "name": "—𝐅𝐚𝐝𝐥𝐲〆𝙆𝙂𝙉",
@@ -587,7 +587,7 @@
   {
     "name": "𝙍𝙞𝙠𝙠𝙖`𝐍𝐂𝐀᭄〆𝙆𝙂𝙉",
     "level": 50,
-    "exp": 1163
+    "exp": 1506
   },
   {
     "name": "Kenzler-chan",
@@ -1400,6 +1400,11 @@
     "exp": 1861
   },
   {
+    "name": "𝕯𝖗𝖊𝖊 ɴᴇᴠᴇʀ ʟᴀᴢʏ",
+    "level": 17,
+    "exp": 1125
+  },
+  {
     "name": "𝗛𝗮𝗶𝗺𝗶𝘆𝗮",
     "level": 17,
     "exp": 2089
@@ -1560,11 +1565,6 @@
     "exp": 923
   },
   {
-    "name": "𝕯𝖗𝖊𝖊 ɴᴇᴠᴇʀ ʟᴀᴢʏ",
-    "level": 15,
-    "exp": 2664
-  },
-  {
     "name": "Y",
     "level": 15,
     "exp": 2542
@@ -1637,7 +1637,7 @@
   {
     "name": "yiaa y nya waras",
     "level": 15,
-    "exp": 882
+    "exp": 946
   },
   {
     "name": "hallo",
@@ -1975,6 +1975,11 @@
     "exp": 150
   },
   {
+    "name": "Vinzey",
+    "level": 12,
+    "exp": 1532
+  },
+  {
     "name": "ji",
     "level": 12,
     "exp": 314
@@ -2078,11 +2083,6 @@
     "name": "𝖋𝐢𝐫𝐦𝐚𝐧",
     "level": 11,
     "exp": 1892
-  },
-  {
-    "name": "Vinzey",
-    "level": 11,
-    "exp": 1224
   },
   {
     "name": "indra",
@@ -2202,7 +2202,7 @@
   {
     "name": "V",
     "level": 10,
-    "exp": 1357
+    "exp": 1547
   },
   {
     "name": "𝚃𝚛𝚞𝚎",
@@ -2385,9 +2385,19 @@
     "exp": 601
   },
   {
+    "name": "𝗔𝘇𝗺𝗶 𝗦𝗲𝗻𝗽𝗮𝗶",
+    "level": 9,
+    "exp": 918
+  },
+  {
     "name": "nyenye",
     "level": 9,
     "exp": 1108
+  },
+  {
+    "name": "Nékozaki Ackerman",
+    "level": 9,
+    "exp": 10
   },
   {
     "name": "Nataa Kaoruko",
@@ -2397,7 +2407,7 @@
   {
     "name": "takina.imup",
     "level": 9,
-    "exp": 1246
+    "exp": 1484
   },
   {
     "name": "jiyuu",
@@ -2545,11 +2555,6 @@
     "exp": 1105
   },
   {
-    "name": "𝗔𝘇𝗺𝗶 𝗦𝗲𝗻𝗽𝗮𝗶",
-    "level": 8,
-    "exp": 1267
-  },
-  {
     "name": "jahe",
     "level": 8,
     "exp": 610
@@ -2568,11 +2573,6 @@
     "name": "NobiDora",
     "level": 8,
     "exp": 217
-  },
-  {
-    "name": "Nékozaki Ackerman",
-    "level": 8,
-    "exp": 1474
   },
   {
     "name": "–𝙎𝙠𝙮_〆𝖋𝖙–𝙆𝙂𝙉–",
@@ -3150,6 +3150,11 @@
     "exp": 529
   },
   {
+    "name": "Sasaki Haise",
+    "level": 6,
+    "exp": 220
+  },
+  {
     "name": "kazukya natsuki",
     "level": 5,
     "exp": 242
@@ -3572,17 +3577,12 @@
   {
     "name": "—𝐃𝐡𝐚𝐫〆𝙆𝙂𝙉",
     "level": 5,
-    "exp": 164
+    "exp": 251
   },
   {
     "name": "Shroo",
     "level": 5,
     "exp": 336
-  },
-  {
-    "name": "Sasaki Haise",
-    "level": 5,
-    "exp": 707
   },
   {
     "name": "Shiinn",
@@ -3797,7 +3797,7 @@
   {
     "name": ".",
     "level": 4,
-    "exp": 237
+    "exp": 238
   },
   {
     "name": "Dykz Senpai",
@@ -3932,7 +3932,7 @@
   {
     "name": "iniminricoopys",
     "level": 4,
-    "exp": 357
+    "exp": 387
   },
   {
     "name": "ayingselalualways",
@@ -3967,7 +3967,7 @@
   {
     "name": "CielTempest.",
     "level": 4,
-    "exp": 260
+    "exp": 304
   },
   {
     "name": "설니— 𝗦𝗵𝗼𝘂`",
@@ -8122,7 +8122,7 @@
   {
     "name": "~",
     "level": 1,
-    "exp": 45
+    "exp": 53
   },
   {
     "name": "Brilzz",
@@ -8167,6 +8167,6 @@
   {
     "name": "ㅤ",
     "level": 1,
-    "exp": 11
+    "exp": 30
   }
 ]
