@@ -7,7 +7,7 @@
   {
     "name": "Tina",
     "level": 1858,
-    "exp": 123799
+    "exp": 154247
   },
   {
     "name": "vin",
@@ -17,7 +17,7 @@
   {
     "name": "Jraa Hikari 愛",
     "level": 1030,
-    "exp": 67834
+    "exp": 88582
   },
   {
     "name": "Renzz",
@@ -192,7 +192,7 @@
   {
     "name": "𝙍𝙞𝙛𝙦𝙞𝙆𝙖𝙜𝙚𝙣𝙤𝙪𝖋𝖙 𝐍𝐂𝐀᭄",
     "level": 234,
-    "exp": 7864
+    "exp": 15772
   },
   {
     "name": "amorrá beliard",
@@ -442,7 +442,7 @@
   {
     "name": "𝙁𝙖𝙝-𝙆𝙪𝙣",
     "level": 92,
-    "exp": 5801
+    "exp": 7568
   },
   {
     "name": "yogurt dipanggil nyaut",
@@ -532,7 +532,7 @@
   {
     "name": "—YutaaCihuyy",
     "level": 65,
-    "exp": 3821
+    "exp": 4190
   },
   {
     "name": "🤍",
@@ -732,7 +732,7 @@
   {
     "name": "KENN am mod cek deskripsi",
     "level": 43,
-    "exp": 5574
+    "exp": 6227
   },
   {
     "name": "No Name",
@@ -1072,7 +1072,7 @@
   {
     "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
     "level": 25,
-    "exp": 4419
+    "exp": 4817
   },
   {
     "name": "•𝚅𝚒𝚗𝚣𝚣_『𝐈𝐄𝐀』",
@@ -1107,7 +1107,7 @@
   {
     "name": "yiaa y nya waras",
     "level": 25,
-    "exp": 2491
+    "exp": 2964
   },
   {
     "name": "—𝐇𝐞𝐫𝐮𝐥 ART〆𝙆𝙂𝙉",
@@ -2367,7 +2367,7 @@
   {
     "name": "Ryuka💅",
     "level": 10,
-    "exp": 785
+    "exp": 890
   },
   {
     "name": "—𝐖𝐚𝐟𝐢𝐪〆𝙆𝙂𝙉",
@@ -3025,6 +3025,11 @@
     "exp": 47
   },
   {
+    "name": "KENN am mod cek deskripsi",
+    "level": 7,
+    "exp": 36
+  },
+  {
     "name": "delia ㅤ",
     "level": 7,
     "exp": 1085
@@ -3062,7 +3067,7 @@
   {
     "name": "✰𝙍𝙮𝙤",
     "level": 7,
-    "exp": 397
+    "exp": 461
   },
   {
     "name": ".",
@@ -3157,7 +3162,7 @@
   {
     "name": "zetaz",
     "level": 6,
-    "exp": 1087
+    "exp": 1092
   },
   {
     "name": "I",
@@ -3322,7 +3327,7 @@
   {
     "name": "kaii",
     "level": 6,
-    "exp": 164
+    "exp": 194
   },
   {
     "name": "keysa siregar",
@@ -3353,11 +3358,6 @@
     "name": "...",
     "level": 6,
     "exp": 186
-  },
-  {
-    "name": "KENN am mod cek deskripsi",
-    "level": 6,
-    "exp": 1044
   },
   {
     "name": "yiaaa hm ok",
@@ -4240,9 +4240,9 @@
     "exp": 24
   },
   {
-    "name": "RyuuKaiiy pecinta femboy😋",
+    "name": "RyuuKaiiy or Rio?",
     "level": 4,
-    "exp": 577
+    "exp": 697
   },
   {
     "name": "~ Tiaa",
@@ -4257,7 +4257,7 @@
   {
     "name": "kino himari cowok femboy",
     "level": 4,
-    "exp": 177
+    "exp": 220
   },
   {
     "name": "V!N",
@@ -5772,7 +5772,7 @@
   {
     "name": "Xyl",
     "level": 2,
-    "exp": 133
+    "exp": 158
   },
   {
     "name": "dika sebelum after",
@@ -8573,5 +8573,10 @@
     "name": "ratz imup",
     "level": 1,
     "exp": 9
+  },
+  {
+    "name": "Xyl",
+    "level": 1,
+    "exp": 1
   }
 ]
