@@ -77,7 +77,7 @@
   {
     "name": "𝘽𝙤𝙩 𝙁𝙮𝙪𝙯𝙚 𝙎𝙩𝙤𝙪𝙧𝙡",
     "level": 451,
-    "exp": 63871
+    "exp": 64453
   },
   {
     "name": "Frans Senpai.",
@@ -102,7 +102,7 @@
   {
     "name": "Sumika AI. ✨",
     "level": 380,
-    "exp": 1833
+    "exp": 3388
   },
   {
     "name": "𝓴𝓲𝔂𝓪𝓻𝓪𝓪̀✧",
@@ -141,8 +141,8 @@
   },
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
-    "level": 317,
-    "exp": 62681
+    "level": 318,
+    "exp": 4629
   },
   {
     "name": "vixz ajah",
@@ -247,7 +247,7 @@
   {
     "name": "mattchalatve?",
     "level": 198,
-    "exp": 12907
+    "exp": 17997
   },
   {
     "name": "XIAO ANN",
@@ -322,12 +322,12 @@
   {
     "name": "aguss suyantoo",
     "level": 138,
-    "exp": 1822
+    "exp": 5188
   },
   {
     "name": "bwitak",
     "level": 136,
-    "exp": 5266
+    "exp": 7863
   },
   {
     "name": "kaachiww",
@@ -342,7 +342,7 @@
   {
     "name": "dikzznewera",
     "level": 133,
-    "exp": 13421
+    "exp": 24051
   },
   {
     "name": "Time to Make History",
@@ -376,8 +376,8 @@
   },
   {
     "name": "Nézyy Ńinoo",
-    "level": 121,
-    "exp": 22264
+    "level": 122,
+    "exp": 87
   },
   {
     "name": "—L!lynn`୨ৎ",
@@ -387,7 +387,7 @@
   {
     "name": "Junn",
     "level": 114,
-    "exp": 7446
+    "exp": 10074
   },
   {
     "name": "krammahiru",
@@ -567,7 +567,7 @@
   {
     "name": "—𝐅𝐚𝐝𝐥𝐲〆𝙆𝙂𝙉",
     "level": 69,
-    "exp": 8390
+    "exp": 9561
   },
   {
     "name": "rion",
@@ -1087,7 +1087,7 @@
   {
     "name": "𝕬𝖐𝖎👻",
     "level": 29,
-    "exp": 429
+    "exp": 649
   },
   {
     "name": "Andre anomali",
@@ -1202,7 +1202,7 @@
   {
     "name": "~iblis",
     "level": 26,
-    "exp": 3520
+    "exp": 4342
   },
   {
     "name": "zhd720p",
@@ -1482,7 +1482,7 @@
   {
     "name": "Kelra",
     "level": 21,
-    "exp": 1392
+    "exp": 3825
   },
   {
     "name": "Ciel",
@@ -2022,7 +2022,7 @@
   {
     "name": "𝕂𝕐𝕌𝔼ℕ『救援』",
     "level": 14,
-    "exp": 1841
+    "exp": 1995
   },
   {
     "name": "—𝐑𝐞𝐧𝐧〆𝙆𝙂𝙉",
@@ -2305,6 +2305,11 @@
     "exp": 375
   },
   {
+    "name": "Moon",
+    "level": 12,
+    "exp": 561
+  },
+  {
     "name": "nyenye",
     "level": 12,
     "exp": 303
@@ -2418,11 +2423,6 @@
     "name": "~hanzz",
     "level": 11,
     "exp": 1290
-  },
-  {
-    "name": "Moon",
-    "level": 11,
-    "exp": 1704
   },
   {
     "name": "Incessdigidaw",
@@ -2777,7 +2777,7 @@
   {
     "name": "Sall",
     "level": 9,
-    "exp": 624
+    "exp": 933
   },
   {
     "name": "sʜɪɴ",
@@ -2952,7 +2952,7 @@
   {
     "name": "𝙍𝙚𝙭𝙕 𝖋𝖙 𝙆𝙂𝙉",
     "level": 8,
-    "exp": 1361
+    "exp": 1368
   },
   {
     "name": "j",
@@ -4032,7 +4032,7 @@
   {
     "name": "No Name",
     "level": 5,
-    "exp": 785
+    "exp": 874
   },
   {
     "name": "No Name",
@@ -5072,7 +5072,7 @@
   {
     "name": "Mahess.",
     "level": 3,
-    "exp": 59
+    "exp": 66
   },
   {
     "name": "No Name",
@@ -5322,7 +5322,7 @@
   {
     "name": "No Name",
     "level": 3,
-    "exp": 130
+    "exp": 224
   },
   {
     "name": "No Name",
@@ -9143,5 +9143,10 @@
     "name": "No Name",
     "level": 1,
     "exp": 4
+  },
+  {
+    "name": "No Name",
+    "level": 1,
+    "exp": 2
   }
 ]
