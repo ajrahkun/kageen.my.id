@@ -42,7 +42,7 @@
   {
     "name": "Mahess.",
     "level": 756,
-    "exp": 49008
+    "exp": 61662
   },
   {
     "name": "faa",
@@ -222,7 +222,7 @@
   {
     "name": "amorrá beliard",
     "level": 245,
-    "exp": 30339
+    "exp": 37485
   },
   {
     "name": "No Name",
@@ -522,7 +522,7 @@
   {
     "name": "Aɴɢɪɴ",
     "level": 85,
-    "exp": 10224
+    "exp": 11775
   },
   {
     "name": "ca",
@@ -537,7 +537,7 @@
   {
     "name": "—𝐃𝐚𝐧𝐳𝐳•|Cretia",
     "level": 81,
-    "exp": 960
+    "exp": 2031
   },
   {
     "name": "unknown",
@@ -1085,6 +1085,11 @@
     "exp": 2191
   },
   {
+    "name": "Silent`Mikha",
+    "level": 30,
+    "exp": 328
+  },
+  {
     "name": "Uzaki hana maou sama",
     "level": 30,
     "exp": 914
@@ -1128,11 +1133,6 @@
     "name": "yanz",
     "level": 29,
     "exp": 3578
-  },
-  {
-    "name": "Silent`Mikha",
-    "level": 29,
-    "exp": 5236
   },
   {
     "name": "wuinu",
@@ -1542,7 +1542,7 @@
   {
     "name": "𝙇𝙚𝙤𝙣𝙚𝙧",
     "level": 21,
-    "exp": 2179
+    "exp": 2504
   },
   {
     "name": "indra",
@@ -3340,6 +3340,11 @@
     "exp": 823
   },
   {
+    "name": "lanzz",
+    "level": 7,
+    "exp": 4
+  },
+  {
     "name": "rap",
     "level": 7,
     "exp": 29
@@ -3377,7 +3382,7 @@
   {
     "name": "andar",
     "level": 7,
-    "exp": 655
+    "exp": 700
   },
   {
     "name": "KENN am mod cek deskripsi",
@@ -3688,11 +3693,6 @@
     "name": "ʟᴜᴛ",
     "level": 6,
     "exp": 641
-  },
-  {
-    "name": "lanzz",
-    "level": 6,
-    "exp": 1054
   },
   {
     "name": "SalZz",
