@@ -6,13 +6,13 @@
   },
   {
     "name": "Tina",
-    "level": 2110,
-    "exp": 107439
+    "level": 2112,
+    "exp": 232776
   },
   {
     "name": "vin",
-    "level": 1496,
-    "exp": 144402
+    "level": 1497,
+    "exp": 5805
   },
   {
     "name": "Jraa Hikari 愛",
@@ -87,7 +87,7 @@
   {
     "name": "CielTempest.",
     "level": 467,
-    "exp": 10648
+    "exp": 27032
   },
   {
     "name": "𝘽𝙤𝙩 𝙁𝙮𝙪𝙯𝙚 𝙎𝙩𝙤𝙪𝙧𝙡",
@@ -97,7 +97,7 @@
   {
     "name": "𝙈𝙖𝙘𝙚𝙡𝙡𝙯",
     "level": 449,
-    "exp": 29968
+    "exp": 44923
   },
   {
     "name": "Sihytam mengeluarkan nanz",
@@ -111,8 +111,8 @@
   },
   {
     "name": "Sumika AI. ✨",
-    "level": 417,
-    "exp": 80494
+    "level": 418,
+    "exp": 6412
   },
   {
     "name": "—𝐑𝐢𝐤𝐚",
@@ -137,7 +137,7 @@
   {
     "name": "𝙍𝙞𝙛𝙦𝙞𝙆𝙖𝙜𝙚𝙣𝙤𝙪𝖋𝖙 𝐍𝐂𝐀᭄",
     "level": 361,
-    "exp": 29943
+    "exp": 44193
   },
   {
     "name": "vixz ajah",
@@ -312,7 +312,7 @@
   {
     "name": "dikzznewera",
     "level": 156,
-    "exp": 4657
+    "exp": 6994
   },
   {
     "name": "Risx🦖",
@@ -337,7 +337,7 @@
   {
     "name": "bwitak",
     "level": 148,
-    "exp": 4712
+    "exp": 6260
   },
   {
     "name": "SidzzNihhhメ",
@@ -442,7 +442,7 @@
   {
     "name": "Kyy where we Are",
     "level": 106,
-    "exp": 17110
+    "exp": 17500
   },
   {
     "name": "𝘿𝙞𝙠𝙯𝙯' 𝖋𝖙 𝙆𝙂𝙉 ✨",
@@ -1357,7 +1357,7 @@
   {
     "name": "J sei",
     "level": 25,
-    "exp": 4019
+    "exp": 4843
   },
   {
     "name": "ZR",
@@ -1522,12 +1522,12 @@
   {
     "name": "No Name",
     "level": 21,
-    "exp": 180
+    "exp": 846
   },
   {
     "name": "あなたを忘れるように努めます",
     "level": 21,
-    "exp": 864
+    "exp": 1627
   },
   {
     "name": "𝙂𝙖𝙣𝙯",
@@ -1587,7 +1587,7 @@
   {
     "name": "ULTRAMAN KESEPIAN",
     "level": 21,
-    "exp": 335
+    "exp": 506
   },
   {
     "name": "No Name",
@@ -1657,7 +1657,7 @@
   {
     "name": "No Name",
     "level": 20,
-    "exp": 395
+    "exp": 861
   },
   {
     "name": "𝑺𝒉𝒊𝒚𝒐",
@@ -2575,6 +2575,11 @@
     "exp": 1205
   },
   {
+    "name": "ʏᴜᴛᴀ",
+    "level": 11,
+    "exp": 132
+  },
+  {
     "name": "No Name",
     "level": 11,
     "exp": 709
@@ -2608,6 +2613,11 @@
     "name": "Vizz",
     "level": 10,
     "exp": 796
+  },
+  {
+    "name": "Neon De La Vallière",
+    "level": 10,
+    "exp": 240
   },
   {
     "name": "𝑨𝒍𝒊𝒔𝒂𝑺𝒉𝒊𝒊𝒏𝒂",
@@ -2750,11 +2760,6 @@
     "exp": 1345
   },
   {
-    "name": "ʏᴜᴛᴀ",
-    "level": 10,
-    "exp": 1791
-  },
-  {
     "name": "Fàn Jǐng*⁠(Greischia)*—⁠☆",
     "level": 10,
     "exp": 150
@@ -2818,11 +2823,6 @@
     "name": "Yohan | Beni",
     "level": 9,
     "exp": 1125
-  },
-  {
-    "name": "Neon De La Vallière",
-    "level": 9,
-    "exp": 1449
   },
   {
     "name": "No Name",
@@ -3637,7 +3637,7 @@
   {
     "name": "Shin",
     "level": 6,
-    "exp": 243
+    "exp": 376
   },
   {
     "name": "Nah i'd win",
@@ -4212,7 +4212,7 @@
   {
     "name": "𝙁𝙞𝙣𝙯𝙯 𝖋𝖙 𝙆𝙂𝙉",
     "level": 5,
-    "exp": 246
+    "exp": 340
   },
   {
     "name": "el rizka imupp",
@@ -6472,7 +6472,7 @@
   {
     "name": "No Name",
     "level": 2,
-    "exp": 82
+    "exp": 133
   },
   {
     "name": "No Name",
@@ -9577,6 +9577,6 @@
   {
     "name": "No Name",
     "level": 1,
-    "exp": 92
+    "exp": 99
   }
 ]
