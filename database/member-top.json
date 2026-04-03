@@ -1,8 +1,8 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 95,
-    "exp": 12267
+    "level": 98,
+    "exp": 4826
   },
   {
     "name": "CielTempest.",
@@ -71,8 +71,8 @@
   },
   {
     "name": "Renzz",
-    "level": 13,
-    "exp": 2376
+    "level": 14,
+    "exp": 303
   },
   {
     "name": "eyir",
@@ -312,7 +312,12 @@
   {
     "name": "joyy",
     "level": 3,
-    "exp": 89
+    "exp": 133
+  },
+  {
+    "name": "Zant aja.",
+    "level": 3,
+    "exp": 322
   },
   {
     "name": "Andre anomali",
@@ -337,7 +342,7 @@
   {
     "name": "Rifzz",
     "level": 2,
-    "exp": 9
+    "exp": 97
   },
   {
     "name": "nuells",
@@ -425,6 +430,11 @@
     "exp": 109
   },
   {
+    "name": "—𝐃𝐚𝐧𝐳𝐳•|Cretia",
+    "level": 2,
+    "exp": 20
+  },
+  {
     "name": "`•尺aizann多",
     "level": 2,
     "exp": 20
@@ -442,7 +452,7 @@
   {
     "name": "𝜵- 𝙍𝙞𝙨𝙚𝙡𝙞𝙖 𝙆𝙖𝙜𝙚𝙣𝙤𝙪〆",
     "level": 2,
-    "exp": 37
+    "exp": 110
   },
   {
     "name": "𝙮𝙖𝙢𝙪𝙧𝙖✰シ︎",
@@ -498,11 +508,6 @@
     "name": "𝘇𝘇𝗲𝗹𝗹𝗻̃𝗮𝗮",
     "level": 2,
     "exp": 108
-  },
-  {
-    "name": "Zant aja.",
-    "level": 2,
-    "exp": 203
   },
   {
     "name": "miracle",
@@ -642,7 +647,7 @@
   {
     "name": "ファキーフ",
     "level": 1,
-    "exp": 49
+    "exp": 55
   },
   {
     "name": "𝐑𝐲𝐲",
@@ -860,11 +865,6 @@
     "exp": 29
   },
   {
-    "name": "—𝐃𝐚𝐧𝐳𝐳•|Cretia",
-    "level": 1,
-    "exp": 91
-  },
-  {
     "name": "Regalius Arkhavel",
     "level": 1,
     "exp": 43
@@ -1042,7 +1042,7 @@
   {
     "name": "aguss suyantoo",
     "level": 1,
-    "exp": 8
+    "exp": 39
   },
   {
     "name": "kenzler-chan",
@@ -1412,7 +1412,7 @@
   {
     "name": "Neon De La Vallière",
     "level": 1,
-    "exp": 45
+    "exp": 69
   },
   {
     "name": "𝙔𝙪𝙢𝙚𝙠𝙤𝙆𝙖𝙜𝙚𝙣𝙤𝙪’",
@@ -1622,7 +1622,7 @@
   {
     "name": "rion",
     "level": 1,
-    "exp": 49
+    "exp": 66
   },
   {
     "name": "faArel",
@@ -1785,9 +1785,9 @@
     "exp": 19
   },
   {
-    "name": "lana Suka Ayam geprek",
+    "name": "𝐑𝐚𝐯𝐞𝐧𝐧𝐒𝐭𝐨𝐫𝐞",
     "level": 1,
-    "exp": 14
+    "exp": 17
   },
   {
     "name": "𝙎𝙝𝙞𝙢𝙤𝙝𝙖𝙧𝙖🍂",
@@ -3058,5 +3058,30 @@
     "name": "Rnd",
     "level": 1,
     "exp": 71
+  },
+  {
+    "name": "lanzz",
+    "level": 1,
+    "exp": 54
+  },
+  {
+    "name": "sawit",
+    "level": 1,
+    "exp": 1
+  },
+  {
+    "name": "riki gf.",
+    "level": 1,
+    "exp": 43
+  },
+  {
+    "name": "Alya",
+    "level": 1,
+    "exp": 3
+  },
+  {
+    "name": "—𝟒𝐆² 𝙍𝙞𝙣𝙠𝙖𝙥𝙧𝙨𝙩ᴾˢ²【桜の花】",
+    "level": 1,
+    "exp": 19
   }
 ]
