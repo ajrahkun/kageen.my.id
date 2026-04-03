@@ -1,13 +1,13 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 99,
-    "exp": 8934
+    "level": 105,
+    "exp": 4380
   },
   {
     "name": "CielTempest.",
     "level": 77,
-    "exp": 4810
+    "exp": 12899
   },
   {
     "name": "`Chi`Mikha`",
@@ -62,7 +62,7 @@
   {
     "name": "No Name",
     "level": 15,
-    "exp": 1687
+    "exp": 2438
   },
   {
     "name": "Fatzz = cella",
@@ -82,7 +82,7 @@
   {
     "name": "siesan",
     "level": 10,
-    "exp": 544
+    "exp": 572
   },
   {
     "name": "ᴋᴇɪᴢᴀᴡᴀ",
@@ -126,8 +126,8 @@
   },
   {
     "name": "laa",
-    "level": 7,
-    "exp": 861
+    "level": 8,
+    "exp": 615
   },
   {
     "name": "all pake l",
@@ -157,7 +157,7 @@
   {
     "name": "VOLTAR",
     "level": 6,
-    "exp": 219
+    "exp": 669
   },
   {
     "name": "mitsuha-chan࿐",
@@ -187,12 +187,12 @@
   {
     "name": "krammahiru",
     "level": 5,
-    "exp": 13
+    "exp": 204
   },
   {
     "name": "bwitak",
     "level": 5,
-    "exp": 140
+    "exp": 236
   },
   {
     "name": "Pasz",
@@ -212,7 +212,7 @@
   {
     "name": "vixz ajah",
     "level": 4,
-    "exp": 180
+    "exp": 229
   },
   {
     "name": "No Name",
@@ -227,7 +227,7 @@
   {
     "name": "𐙚 ádzyan",
     "level": 4,
-    "exp": 279
+    "exp": 282
   },
   {
     "name": "Hero Hunter",
@@ -257,7 +257,7 @@
   {
     "name": "ryu just kidding",
     "level": 4,
-    "exp": 371
+    "exp": 390
   },
   {
     "name": "nur | edogawanur",
@@ -332,7 +332,7 @@
   {
     "name": "—𝐌𝐔𝐙𝐀𝐊𝐈〆",
     "level": 3,
-    "exp": 132
+    "exp": 322
   },
   {
     "name": "Beato🦋",
@@ -358,6 +358,11 @@
     "name": "kacchiww",
     "level": 2,
     "exp": 97
+  },
+  {
+    "name": "raff",
+    "level": 2,
+    "exp": 0
   },
   {
     "name": "kreator tiktok",
@@ -577,7 +582,7 @@
   {
     "name": "𝖾𝗅𝗅𝗒𝗇̃ 𝐃. 𝗌𝗁𝗂𝗇𝖺𝗓𝗎𝗀𝖺𝗐𝖺̄.",
     "level": 2,
-    "exp": 18
+    "exp": 66
   },
   {
     "name": "ALFZZ 𝙎𝙀𝙉𝙎𝙀𝙄 ⚡",
@@ -607,12 +612,12 @@
   {
     "name": "Sawit🤤",
     "level": 2,
-    "exp": 36
+    "exp": 50
   },
   {
     "name": "oskadon",
     "level": 2,
-    "exp": 92
+    "exp": 199
   },
   {
     "name": "tiadesu!",
@@ -658,11 +663,6 @@
     "name": "Reza",
     "level": 1,
     "exp": 96
-  },
-  {
-    "name": "raff",
-    "level": 1,
-    "exp": 93
   },
   {
     "name": "Renxs ajah",
@@ -747,7 +747,7 @@
   {
     "name": "RyuuKaiiy or Rio",
     "level": 1,
-    "exp": 2
+    "exp": 14
   },
   {
     "name": "mishaa",
@@ -1197,7 +1197,7 @@
   {
     "name": "ehan",
     "level": 1,
-    "exp": 57
+    "exp": 78
   },
   {
     "name": "﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏",
@@ -2297,7 +2297,7 @@
   {
     "name": "𝙒𝙀𝙍𝙍𝙄𝙓𝙕𝘼 𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 1,
-    "exp": 1
+    "exp": 13
   },
   {
     "name": "clay",
@@ -3087,6 +3087,36 @@
   {
     "name": "𝙁𝙚𝙣𝙧𝙮𝙨𝙨 𝖋𝖙 𝙆𝙂𝙉",
     "level": 1,
-    "exp": 22
+    "exp": 36
+  },
+  {
+    "name": "ʀʏᴜᴢᴇᴍʜɪʀᴜ",
+    "level": 1,
+    "exp": 5
+  },
+  {
+    "name": "maii?",
+    "level": 1,
+    "exp": 8
+  },
+  {
+    "name": "liaa kageen",
+    "level": 1,
+    "exp": 32
+  },
+  {
+    "name": "~TIREX",
+    "level": 1,
+    "exp": 2
+  },
+  {
+    "name": "𝙮𝙪𝙩𝙖𝙨𝙝𝙞𝙣𝙤",
+    "level": 1,
+    "exp": 12
+  },
+  {
+    "name": "IOO EDITOR OFFICIAL",
+    "level": 1,
+    "exp": 7
   }
 ]
