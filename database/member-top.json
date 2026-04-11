@@ -1,8 +1,8 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 1001,
-    "exp": 187409
+    "level": 1011,
+    "exp": 67662
   },
   {
     "name": "Kuro",
@@ -192,7 +192,7 @@
   {
     "name": "Aɴɢɪɴ",
     "level": 26,
-    "exp": 1781
+    "exp": 2296
   },
   {
     "name": "Naura Store",
@@ -202,7 +202,7 @@
   {
     "name": "—𝐁𝐫𝐳𝐱𝐲〆𝙆𝙂𝙉",
     "level": 23,
-    "exp": 3612
+    "exp": 3667
   },
   {
     "name": "Frans Senpai.",
@@ -275,6 +275,11 @@
     "exp": 18
   },
   {
+    "name": "faa",
+    "level": 18,
+    "exp": 749
+  },
+  {
     "name": "Zuki",
     "level": 18,
     "exp": 994
@@ -283,11 +288,6 @@
     "name": "Si White",
     "level": 18,
     "exp": 391
-  },
-  {
-    "name": "faa",
-    "level": 17,
-    "exp": 1865
   },
   {
     "name": "zuzu | open apk edit prem",
@@ -327,7 +327,7 @@
   {
     "name": "Mahess.",
     "level": 15,
-    "exp": 269
+    "exp": 517
   },
   {
     "name": "~𝐙𝐚𝐧𝐬〆𝙆𝙂𝙉",
@@ -337,7 +337,7 @@
   {
     "name": "Aditya",
     "level": 14,
-    "exp": 1647
+    "exp": 1680
   },
   {
     "name": "beeljiroo",
@@ -432,7 +432,7 @@
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
     "level": 8,
-    "exp": 59
+    "exp": 727
   },
   {
     "name": "amorrá beliard",
@@ -1117,7 +1117,7 @@
   {
     "name": "zenn",
     "level": 3,
-    "exp": 126
+    "exp": 152
   },
   {
     "name": "Senpai",
@@ -1360,6 +1360,11 @@
     "exp": 260
   },
   {
+    "name": "𝙔𝙤𝙧𝙖𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
+    "level": 2,
+    "exp": 12
+  },
+  {
     "name": "Vīnzz × Nakano★",
     "level": 2,
     "exp": 31
@@ -1407,7 +1412,7 @@
   {
     "name": "Ryyロイ",
     "level": 2,
-    "exp": 114
+    "exp": 143
   },
   {
     "name": "dyanta࿐",
@@ -1802,7 +1807,7 @@
   {
     "name": "AFDAL",
     "level": 1,
-    "exp": 53
+    "exp": 55
   },
   {
     "name": "𝘴ᥱᥒkᥱႸᥱႸᥱ",
@@ -2062,7 +2067,7 @@
   {
     "name": "Shiin✌️",
     "level": 1,
-    "exp": 27
+    "exp": 31
   },
   {
     "name": "—𝐅𝐚𝐝𝐥𝐲〆𝙆𝙂𝙉",
@@ -2153,11 +2158,6 @@
     "name": "Ryy",
     "level": 1,
     "exp": 38
-  },
-  {
-    "name": "𝙔𝙤𝙧𝙖𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
-    "level": 1,
-    "exp": 96
   },
   {
     "name": "zhd720p",
@@ -3042,7 +3042,7 @@
   {
     "name": "RIVALDY APRILIO",
     "level": 1,
-    "exp": 54
+    "exp": 63
   },
   {
     "name": "Ichiro pendragon",
@@ -4753,5 +4753,10 @@
     "name": "hmzz",
     "level": 1,
     "exp": 71
+  },
+  {
+    "name": "Rafly Pake F",
+    "level": 1,
+    "exp": 14
   }
 ]
