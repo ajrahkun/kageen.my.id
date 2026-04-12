@@ -1,8 +1,8 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 1263,
-    "exp": 81726
+    "level": 1270,
+    "exp": 89853
   },
   {
     "name": "Kuro",
@@ -67,7 +67,7 @@
   {
     "name": "Jraa Hikari 愛",
     "level": 66,
-    "exp": 10240
+    "exp": 10322
   },
   {
     "name": "Rahhh",
@@ -102,7 +102,7 @@
   {
     "name": "No Name",
     "level": 53,
-    "exp": 4638
+    "exp": 7332
   },
   {
     "name": "nur | edogawanur",
@@ -200,14 +200,14 @@
     "exp": 5812
   },
   {
+    "name": "Aɴɢɪɴ",
+    "level": 28,
+    "exp": 583
+  },
+  {
     "name": "mio haimiya",
     "level": 28,
     "exp": 3783
-  },
-  {
-    "name": "Aɴɢɪɴ",
-    "level": 27,
-    "exp": 5100
   },
   {
     "name": "Feelss.",
@@ -227,7 +227,7 @@
   {
     "name": "—𝐁𝐫𝐳𝐱𝐲〆𝙆𝙂𝙉",
     "level": 25,
-    "exp": 72
+    "exp": 1058
   },
   {
     "name": "faa",
@@ -267,7 +267,7 @@
   {
     "name": "Aditya",
     "level": 20,
-    "exp": 78
+    "exp": 157
   },
   {
     "name": "Zuki",
@@ -357,7 +357,7 @@
   {
     "name": ".",
     "level": 16,
-    "exp": 1560
+    "exp": 1651
   },
   {
     "name": "mitsuha-chan࿐",
@@ -417,7 +417,7 @@
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
     "level": 10,
-    "exp": 1304
+    "exp": 1524
   },
   {
     "name": "𝙋𝙍𝙄𝙉𝘾𝙀 𝘿𝙄𝙏𝙕 🥶",
@@ -547,7 +547,7 @@
   {
     "name": "bwitak",
     "level": 7,
-    "exp": 91
+    "exp": 121
   },
   {
     "name": "Shev",
@@ -892,7 +892,12 @@
   {
     "name": "𝓴𝓲𝔂𝓪𝓻𝓪𝓪̀ෆ",
     "level": 4,
-    "exp": 613
+    "exp": 660
+  },
+  {
+    "name": "Pasz",
+    "level": 4,
+    "exp": 3
   },
   {
     "name": "𝘿𝙞𝙠𝙯𝙯' 𝖋𝖙 𝙆𝙂𝙉 ✨",
@@ -927,7 +932,7 @@
   {
     "name": "ファキーフ",
     "level": 4,
-    "exp": 413
+    "exp": 467
   },
   {
     "name": "ᴢᴏᴇʟᴢᴀᴄᴋ",
@@ -987,7 +992,7 @@
   {
     "name": "𝙆𝙂𝙉 𝙎𝙖𝙣𝙯'𝖋𝖙 𝘼𝙒𝘾᭄",
     "level": 4,
-    "exp": 432
+    "exp": 496
   },
   {
     "name": "lisaayo",
@@ -1068,11 +1073,6 @@
     "name": "yuuji amat asix",
     "level": 3,
     "exp": 302
-  },
-  {
-    "name": "Pasz",
-    "level": 3,
-    "exp": 413
   },
   {
     "name": "Kepada yth. Faiz",
@@ -1447,7 +1447,7 @@
   {
     "name": "Rikka de alge obelia",
     "level": 2,
-    "exp": 139
+    "exp": 156
   },
   {
     "name": "Ryuu~",
@@ -1490,9 +1490,14 @@
     "exp": 34
   },
   {
+    "name": "Where is Elyn?",
+    "level": 2,
+    "exp": 2
+  },
+  {
     "name": "J'sei",
     "level": 2,
-    "exp": 6
+    "exp": 77
   },
   {
     "name": "𝙍𝙚𝙮𝙮??",
@@ -1520,9 +1525,9 @@
     "exp": 0
   },
   {
-    "name": "ra",
+    "name": "𝙔𝙤𝙧𝙖",
     "level": 2,
-    "exp": 49
+    "exp": 64
   },
   {
     "name": "Ndra",
@@ -1697,7 +1702,7 @@
   {
     "name": "Ilyas",
     "level": 2,
-    "exp": 45
+    "exp": 53
   },
   {
     "name": "アリヤ★",
@@ -1707,7 +1712,7 @@
   {
     "name": "U⸸oy",
     "level": 2,
-    "exp": 3
+    "exp": 26
   },
   {
     "name": "Ryuu'Ka",
@@ -2198,11 +2203,6 @@
     "name": "Arthur",
     "level": 1,
     "exp": 11
-  },
-  {
-    "name": "Where is Elyn?",
-    "level": 1,
-    "exp": 91
   },
   {
     "name": "Wilz𝙒𝙖𝙣𝙜𝙮𝙮 𝖋𝖙𝙊𝘾",
@@ -3037,7 +3037,7 @@
   {
     "name": "kyunee",
     "level": 1,
-    "exp": 81
+    "exp": 90
   },
   {
     "name": "Ikalz GTG",
