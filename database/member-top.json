@@ -1,8 +1,8 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 1578,
-    "exp": 167484
+    "level": 1580,
+    "exp": 127540
   },
   {
     "name": "Kuro",
@@ -86,8 +86,8 @@
   },
   {
     "name": "No Name",
-    "level": 85,
-    "exp": 13521
+    "level": 86,
+    "exp": 2073
   },
   {
     "name": "takina.imup",
@@ -96,8 +96,8 @@
   },
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
-    "level": 76,
-    "exp": 11164
+    "level": 77,
+    "exp": 1231
   },
   {
     "name": "Rahhh",
@@ -142,7 +142,7 @@
   {
     "name": "—𝐌𝐔𝐙𝐀𝐊𝐈〆",
     "level": 57,
-    "exp": 8298
+    "exp": 9402
   },
   {
     "name": "Renxs ajah",
@@ -367,7 +367,7 @@
   {
     "name": "Mahess.",
     "level": 23,
-    "exp": 3334
+    "exp": 3723
   },
   {
     "name": "𝙕𝙚𝙩𝙖𝙉𝙚𝙬𝙗𝙞𝙚𝐂𝐀𝐎𝙆𝙂𝙉`𝖋𝖙 𝐍𝐂𝐀᭄",
@@ -417,7 +417,7 @@
   {
     "name": "Sumika AI. ✨",
     "level": 20,
-    "exp": 196
+    "exp": 2160
   },
   {
     "name": "shin from emptiness",
@@ -817,7 +817,7 @@
   {
     "name": "rion",
     "level": 6,
-    "exp": 48
+    "exp": 70
   },
   {
     "name": "aku diki",
@@ -863,6 +863,11 @@
     "name": "Aji Ps",
     "level": 6,
     "exp": 853
+  },
+  {
+    "name": "Kemichika",
+    "level": 6,
+    "exp": 10
   },
   {
     "name": "ren sakurajima",
@@ -998,11 +1003,6 @@
     "name": "—𝐇𝐚𝐧𝐢𝐧𝐝𝐲𝐚〆𝙆𝙂𝙉",
     "level": 5,
     "exp": 895
-  },
-  {
-    "name": "Kemichika",
-    "level": 5,
-    "exp": 823
   },
   {
     "name": "Keira",
@@ -1257,7 +1257,7 @@
   {
     "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
     "level": 4,
-    "exp": 324
+    "exp": 483
   },
   {
     "name": "Arthur",
@@ -1407,7 +1407,7 @@
   {
     "name": "Yusz",
     "level": 3,
-    "exp": 73
+    "exp": 163
   },
   {
     "name": "Nishikawa〆𝙆𝙂𝙉",
@@ -5582,7 +5582,7 @@
   {
     "name": "~dapjie 𝐂𝐀𝐒𝐓𝐔𝐒/𝐑𝐄𝐁𝐄𝐑𝐘𝐎 🐊",
     "level": 1,
-    "exp": 76
+    "exp": 78
   },
   {
     "name": "𝗥𝗶𝘆𝘂𝗲𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -5613,5 +5613,10 @@
     "name": "Who?",
     "level": 1,
     "exp": 1
+  },
+  {
+    "name": "𝐅𝐲𝐮𝐳𝐞𝐋𝐲𝐧𝐧` [ Own ]",
+    "level": 1,
+    "exp": 10
   }
 ]
