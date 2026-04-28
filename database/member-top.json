@@ -1,8 +1,8 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 3196,
-    "exp": 341680
+    "level": 3199,
+    "exp": 608967
   },
   {
     "name": "Sumika AI. ✨",
@@ -27,7 +27,7 @@
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
     "level": 485,
-    "exp": 16310
+    "exp": 27240
   },
   {
     "name": "Kyoushvi",
@@ -62,7 +62,7 @@
   {
     "name": "Sumika AI. ✨",
     "level": 276,
-    "exp": 8091
+    "exp": 9813
   },
   {
     "name": "Sihytam mengeluarkan nanz",
@@ -237,7 +237,7 @@
   {
     "name": "faa",
     "level": 82,
-    "exp": 1492
+    "exp": 11861
   },
   {
     "name": "Xytra",
@@ -321,8 +321,8 @@
   },
   {
     "name": "Aditya",
-    "level": 58,
-    "exp": 11421
+    "level": 59,
+    "exp": 2239
   },
   {
     "name": ".....",
@@ -347,12 +347,12 @@
   {
     "name": "~𝐙𝐚𝐧𝐬〆𝙆𝙂𝙉",
     "level": 52,
-    "exp": 2868
+    "exp": 8991
   },
   {
     "name": "後藤 Rishaa",
     "level": 52,
-    "exp": 6764
+    "exp": 9428
   },
   {
     "name": "nuells",
@@ -717,7 +717,7 @@
   {
     "name": "𝐅𝐲𝐮𝐳𝐞𝐋𝐲𝐧𝐧` [ Own ]",
     "level": 18,
-    "exp": 1681
+    "exp": 3001
   },
   {
     "name": "𝙆𝘼𝙍𝙐𝙈𝙄",
@@ -1037,7 +1037,7 @@
   {
     "name": "Xyera 🧣🌹",
     "level": 11,
-    "exp": 263
+    "exp": 453
   },
   {
     "name": "yudh",
@@ -1107,7 +1107,7 @@
   {
     "name": "𝗪𝗶𝗻𝗱",
     "level": 10,
-    "exp": 1074
+    "exp": 1309
   },
   {
     "name": "𝙁𝙚𝙗𝙆𝙖𝙜𝙚𝙣𝙤𝙪`𝖋𝖙 𝐍𝐂𝐀᭄",
@@ -1117,7 +1117,7 @@
   {
     "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
     "level": 10,
-    "exp": 1550
+    "exp": 1671
   },
   {
     "name": "ren sakurajima",
@@ -1545,9 +1545,14 @@
     "exp": 657
   },
   {
+    "name": "all",
+    "level": 7,
+    "exp": 37
+  },
+  {
     "name": "Zetsu",
     "level": 6,
-    "exp": 863
+    "exp": 946
   },
   {
     "name": "Lin Xiny",
@@ -1713,11 +1718,6 @@
     "name": "𝓐𝗉𝗋𝗂𝗅 𝖋𝖙 𝙆𝙂𝙉",
     "level": 6,
     "exp": 591
-  },
-  {
-    "name": "all",
-    "level": 6,
-    "exp": 1091
   },
   {
     "name": "liaa リア",
@@ -2317,7 +2317,7 @@
   {
     "name": "𝙁𝙚𝙧𝙙𝙞 𝖋𝖙 𝙆𝙂𝙉",
     "level": 4,
-    "exp": 410
+    "exp": 442
   },
   {
     "name": "Amaa",
@@ -2412,12 +2412,17 @@
   {
     "name": "sam",
     "level": 4,
-    "exp": 125
+    "exp": 272
   },
   {
     "name": "Trazz 友",
     "level": 4,
     "exp": 396
+  },
+  {
+    "name": "bang Taka",
+    "level": 4,
+    "exp": 180
   },
   {
     "name": "never_saa࿐",
@@ -2955,11 +2960,6 @@
     "exp": 400
   },
   {
-    "name": "bang Taka",
-    "level": 3,
-    "exp": 399
-  },
-  {
     "name": "𝙉𝙖𝙣𝙖𝙖૮ ․ ․ ྀིა ִ ۫ ࣪𔓕 ֢",
     "level": 3,
     "exp": 262
@@ -3227,7 +3227,7 @@
   {
     "name": "meow🎀",
     "level": 2,
-    "exp": 76
+    "exp": 88
   },
   {
     "name": "~",
@@ -6997,7 +6997,7 @@
   {
     "name": "KANG KILYZキル ft MCA,SCR WANGYY, AEG,7AC,KGN.EOA,ft`𝗫𝗲𝗻𝘁𝗿𝗶𝗰, GSS",
     "level": 1,
-    "exp": 21
+    "exp": 41
   },
   {
     "name": ".",
@@ -7088,5 +7088,10 @@
     "name": "Nova Garaa",
     "level": 1,
     "exp": 1
+  },
+  {
+    "name": "sam",
+    "level": 1,
+    "exp": 15
   }
 ]
