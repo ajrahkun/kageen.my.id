@@ -1,8 +1,8 @@
 [
   {
     "name": "Tina AI by indra",
-    "level": 3471,
-    "exp": 108216
+    "level": 3473,
+    "exp": 59247
   },
   {
     "name": "Sumika AI. ✨",
@@ -16,8 +16,8 @@
   },
   {
     "name": "Kuro",
-    "level": 689,
-    "exp": 133803
+    "level": 690,
+    "exp": 7581
   },
   {
     "name": "vin",
@@ -27,7 +27,7 @@
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
     "level": 513,
-    "exp": 54102
+    "exp": 79820
   },
   {
     "name": "𝗭𝗔𝗣𝗣𝗬",
@@ -47,7 +47,7 @@
   {
     "name": "de L ta",
     "level": 334,
-    "exp": 42582
+    "exp": 50133
   },
   {
     "name": "hiko",
@@ -72,7 +72,7 @@
   {
     "name": "Sihytam mengeluarkan nanz",
     "level": 254,
-    "exp": 21394
+    "exp": 30685
   },
   {
     "name": "𝙆𝙮𝙮𝙯𝙣 𝐒𝐚𝐧𝐭𝐮𝐲 繁",
@@ -147,7 +147,7 @@
   {
     "name": "takina.imup",
     "level": 164,
-    "exp": 30864
+    "exp": 32391
   },
   {
     "name": "Yth vin",
@@ -242,7 +242,7 @@
   {
     "name": "Jeanne|Dinji",
     "level": 85,
-    "exp": 8549
+    "exp": 13251
   },
   {
     "name": "XIAO ANN",
@@ -297,7 +297,7 @@
   {
     "name": "Aditya",
     "level": 66,
-    "exp": 5355
+    "exp": 7366
   },
   {
     "name": "krammahiru",
@@ -322,7 +322,7 @@
   {
     "name": "—𝐌𝐔𝐙𝐀𝐊𝐈〆",
     "level": 61,
-    "exp": 9744
+    "exp": 10693
   },
   {
     "name": "~𝐙𝐚𝐧𝐬〆𝙆𝙂𝙉",
@@ -427,7 +427,7 @@
   {
     "name": "Zant aja.",
     "level": 42,
-    "exp": 4100
+    "exp": 4612
   },
   {
     "name": "Lict",
@@ -582,7 +582,7 @@
   {
     "name": "KyuaraXF Ft KGN",
     "level": 26,
-    "exp": 259
+    "exp": 981
   },
   {
     "name": "Ciel",
@@ -690,6 +690,11 @@
     "exp": 599
   },
   {
+    "name": "—𝐑𝐲𝐝𝐳〆𝙆𝙂𝙉",
+    "level": 20,
+    "exp": 592
+  },
+  {
     "name": "𝙆𝘼𝙍𝙐𝙈𝙄",
     "level": 19,
     "exp": 1722
@@ -733,11 +738,6 @@
     "name": "bagasaldi6789",
     "level": 19,
     "exp": 3665
-  },
-  {
-    "name": "—𝐑𝐲𝐝𝐳〆𝙆𝙂𝙉",
-    "level": 19,
-    "exp": 3037
   },
   {
     "name": "Rnd",
@@ -1072,7 +1072,7 @@
   {
     "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
     "level": 11,
-    "exp": 979
+    "exp": 1349
   },
   {
     "name": "yudh",
@@ -1807,7 +1807,7 @@
   {
     "name": "RisxAscroft",
     "level": 5,
-    "exp": 761
+    "exp": 765
   },
   {
     "name": "~🦠",
@@ -2132,7 +2132,7 @@
   {
     "name": "_Ndraa",
     "level": 4,
-    "exp": 566
+    "exp": 614
   },
   {
     "name": "Pan",
@@ -4057,7 +4057,7 @@
   {
     "name": "razzzz",
     "level": 2,
-    "exp": 56
+    "exp": 80
   },
   {
     "name": "— be'cloud, ayéll <3",
@@ -4647,7 +4647,7 @@
   {
     "name": "Kepada Yth. Zenn",
     "level": 1,
-    "exp": 21
+    "exp": 23
   },
   {
     "name": "Tiaa itayo",
@@ -5127,7 +5127,7 @@
   {
     "name": "RiseNpc🇯🇵",
     "level": 1,
-    "exp": 27
+    "exp": 29
   },
   {
     "name": "ʀʏᴜᴢᴇᴍʜɪʀᴜ",
@@ -5602,7 +5602,7 @@
   {
     "name": "gen",
     "level": 1,
-    "exp": 18
+    "exp": 25
   },
   {
     "name": "C-『𝗜𝗘𝗔』",
@@ -7203,5 +7203,10 @@
     "name": "—𝐋𝐚𝐲𝐥𝐚𝐚𝐚`𝐍𝐂𝐀᭄〆𝙆𝙂𝙉",
     "level": 1,
     "exp": 6
+  },
+  {
+    "name": "razzzz",
+    "level": 1,
+    "exp": 5
   }
 ]
