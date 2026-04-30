@@ -16,8 +16,8 @@
   },
   {
     "name": "Kuro",
-    "level": 698,
-    "exp": 65562
+    "level": 699,
+    "exp": 62131
   },
   {
     "name": "vin",
@@ -26,8 +26,8 @@
   },
   {
     "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄•𝘼𝙄",
-    "level": 548,
-    "exp": 53670
+    "level": 549,
+    "exp": 20141
   },
   {
     "name": "𝗭𝗔𝗣𝗣𝗬",
@@ -66,8 +66,8 @@
   },
   {
     "name": "Renzz",
-    "level": 292,
-    "exp": 43227
+    "level": 293,
+    "exp": 33579
   },
   {
     "name": "Sihytam mengeluarkan nanz",
@@ -97,7 +97,7 @@
   {
     "name": "ji gidaw",
     "level": 233,
-    "exp": 18962
+    "exp": 19176
   },
   {
     "name": "lila",
@@ -122,7 +122,7 @@
   {
     "name": "ʀɪᴢᴢ.",
     "level": 190,
-    "exp": 32666
+    "exp": 36904
   },
   {
     "name": "Zyn𖣂",
@@ -176,8 +176,8 @@
   },
   {
     "name": "Frans Senpai.",
-    "level": 112,
-    "exp": 14979
+    "level": 113,
+    "exp": 4931
   },
   {
     "name": "neyik cimol bojot",
@@ -187,7 +187,7 @@
   {
     "name": "Jeanne|Dinji",
     "level": 107,
-    "exp": 361
+    "exp": 18862
   },
   {
     "name": "ryu just kidding",
@@ -292,7 +292,7 @@
   {
     "name": "Aditya",
     "level": 71,
-    "exp": 2936
+    "exp": 11327
   },
   {
     "name": "nur | edogawanur",
@@ -580,6 +580,11 @@
     "exp": 1079
   },
   {
+    "name": "farr cartyle, castus, 696",
+    "level": 28,
+    "exp": 482
+  },
+  {
     "name": "~𝘿𝙞𝙡𝙯𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪 || 𝐍𝐏᪻ͥᷱ᷍𝐄☾",
     "level": 27,
     "exp": 4860
@@ -590,19 +595,14 @@
     "exp": 3464
   },
   {
-    "name": "farr cartyle, castus, 696",
+    "name": "Ryuzi altair",
     "level": 27,
-    "exp": 3910
+    "exp": 421
   },
   {
     "name": "𝐑𝐞𝐧𝐧 𝐒𝐚𝐢𝐳𝐨",
     "level": 26,
     "exp": 787
-  },
-  {
-    "name": "Ryuzi altair",
-    "level": 26,
-    "exp": 5070
   },
   {
     "name": "bwitak",
@@ -682,7 +682,7 @@
   {
     "name": "—𝐑𝐲𝐝𝐳〆𝙆𝙂𝙉",
     "level": 21,
-    "exp": 3855
+    "exp": 3994
   },
   {
     "name": "𝙆𝘼𝙍𝙐𝙈𝙄",
@@ -917,7 +917,7 @@
   {
     "name": "kuzer rill",
     "level": 14,
-    "exp": 639
+    "exp": 807
   },
   {
     "name": "fay",
@@ -973,6 +973,11 @@
     "name": "𝘿𝙞𝙡𝙡,𝙆𝙂𝙉𝙒𝙖𝙣𝙜𝙮𝙮'𝙏SR",
     "level": 13,
     "exp": 569
+  },
+  {
+    "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
+    "level": 13,
+    "exp": 665
   },
   {
     "name": "Hoshizora Hikari",
@@ -1048,11 +1053,6 @@
     "name": "Xyera 🧣🌹",
     "level": 12,
     "exp": 596
-  },
-  {
-    "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
-    "level": 12,
-    "exp": 2253
   },
   {
     "name": "𝙕𝙞𝙣𝙯𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -1362,12 +1362,12 @@
   {
     "name": "—𝐂𝐞𝐜𝐢𝐥𝐢𝐚 | Клаузиус",
     "level": 9,
-    "exp": 79
+    "exp": 206
   },
   {
     "name": "𝙅𝙚𝙢𝙞𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 8,
-    "exp": 964
+    "exp": 1030
   },
   {
     "name": "quin punya Levi:)",
@@ -1562,7 +1562,7 @@
   {
     "name": "Zoel Zack",
     "level": 7,
-    "exp": 646
+    "exp": 722
   },
   {
     "name": "~kyy",
@@ -1702,7 +1702,7 @@
   {
     "name": "ame hu🌸",
     "level": 6,
-    "exp": 541
+    "exp": 609
   },
   {
     "name": "Miyuri",
@@ -2562,7 +2562,7 @@
   {
     "name": "LowGriz",
     "level": 4,
-    "exp": 249
+    "exp": 303
   },
   {
     "name": "sam",
@@ -2727,7 +2727,7 @@
   {
     "name": "snas uka",
     "level": 3,
-    "exp": 418
+    "exp": 472
   },
   {
     "name": "𝘃 .",
@@ -4217,7 +4217,7 @@
   {
     "name": "‍‍ ‍ ‍ ‍ ︎",
     "level": 2,
-    "exp": 47
+    "exp": 87
   },
   {
     "name": "Nindy pcr cid",
@@ -4792,7 +4792,7 @@
   {
     "name": "😹",
     "level": 1,
-    "exp": 43
+    "exp": 47
   },
   {
     "name": "Y",
@@ -7242,7 +7242,7 @@
   {
     "name": "𝘼𝙯𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪`𝐄𝐕𝐂᭄",
     "level": 1,
-    "exp": 62
+    "exp": 89
   },
   {
     "name": "liaa リア",
@@ -7357,7 +7357,7 @@
   {
     "name": "𝓱𝓲𝓭𝓪𝔂𝓪𝓽𝓾𝓵𝓵𝓪𝓱",
     "level": 1,
-    "exp": 92
+    "exp": 95
   },
   {
     "name": "Senpai",
