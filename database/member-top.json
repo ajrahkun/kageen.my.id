@@ -1,13 +1,13 @@
 [
   {
     "name": "insra",
-    "level": 4413,
-    "exp": 483668
+    "level": 4414,
+    "exp": 190543
   },
   {
     "name": "riye",
-    "level": 947,
-    "exp": 184830
+    "level": 952,
+    "exp": 7876
   },
   {
     "name": "𝙎𝙖𝙣𝙯𝙮𝙮𝙈𝙞𝙩𝙚𝙈𝙞𝙩𝙚",
@@ -36,8 +36,8 @@
   },
   {
     "name": "Sumika AI. ✨",
-    "level": 566,
-    "exp": 73421
+    "level": 567,
+    "exp": 48973
   },
   {
     "name": "hiko",
@@ -51,18 +51,18 @@
   },
   {
     "name": "yeyaa",
-    "level": 428,
-    "exp": 77299
+    "level": 433,
+    "exp": 14905
   },
   {
     "name": "𝙍𝙚𝙣𝙯𝙠𝙮𝙤𝙠𝙚𝙣 𝖋𝖙 𝙆𝙂𝙉",
-    "level": 418,
-    "exp": 53501
+    "level": 419,
+    "exp": 7100
   },
   {
     "name": "Jraa Hikari 愛",
-    "level": 413,
-    "exp": 79019
+    "level": 414,
+    "exp": 5174
   },
   {
     "name": "de L ta",
@@ -77,32 +77,32 @@
   {
     "name": "𝙈𝙞𝙚",
     "level": 364,
-    "exp": 33288
+    "exp": 37551
   },
   {
     "name": "SidzzKagenouメ",
-    "level": 351,
-    "exp": 68728
+    "level": 352,
+    "exp": 6061
   },
   {
     "name": "Jeanne|Dinji",
-    "level": 337,
-    "exp": 8584
+    "level": 340,
+    "exp": 2523
   },
   {
     "name": "Sumika AI. ✨",
     "level": 328,
-    "exp": 29983
+    "exp": 33986
+  },
+  {
+    "name": "lalaa",
+    "level": 294,
+    "exp": 22614
   },
   {
     "name": "Satria Panggil Aja Shin",
     "level": 294,
     "exp": 3333
-  },
-  {
-    "name": "lalaa",
-    "level": 293,
-    "exp": 23099
   },
   {
     "name": "𝙓𝙚LL",
@@ -116,8 +116,8 @@
   },
   {
     "name": "𝙆𝙮𝙮𝙯𝙣𝙉𝙞𝙢𝙚 ✰",
-    "level": 272,
-    "exp": 52673
+    "level": 273,
+    "exp": 2951
   },
   {
     "name": "ji gidaw",
@@ -137,7 +137,7 @@
   {
     "name": "𝘀𝗻𝗮𝘀",
     "level": 245,
-    "exp": 25185
+    "exp": 41366
   },
   {
     "name": "Zyn𖣂",
@@ -147,7 +147,7 @@
   {
     "name": "Ziiaaa",
     "level": 240,
-    "exp": 41902
+    "exp": 44925
   },
   {
     "name": "𝕼𝖊𝖓 𝖆𝖑𝖛𝖆𝖗𝖔",
@@ -157,7 +157,7 @@
   {
     "name": "Yuraa Senpai.",
     "level": 204,
-    "exp": 27582
+    "exp": 30397
   },
   {
     "name": "𝙍𝙞𝙠𝙪𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -172,7 +172,7 @@
   {
     "name": "Aditya",
     "level": 196,
-    "exp": 19873
+    "exp": 26291
   },
   {
     "name": "neyik cirenk",
@@ -185,14 +185,14 @@
     "exp": 21208
   },
   {
+    "name": "faa",
+    "level": 160,
+    "exp": 13321
+  },
+  {
     "name": "Rahhh",
     "level": 159,
     "exp": 11873
-  },
-  {
-    "name": "faa",
-    "level": 159,
-    "exp": 30892
   },
   {
     "name": "#KazehyHolic.",
@@ -247,7 +247,7 @@
   {
     "name": "Xytra",
     "level": 109,
-    "exp": 9776
+    "exp": 10518
   },
   {
     "name": "yuu",
@@ -265,14 +265,14 @@
     "exp": 35
   },
   {
+    "name": "Renxs ajah",
+    "level": 104,
+    "exp": 9583
+  },
+  {
     "name": "‘𝕯𝖊𝖓𝖓 𝖋𝖙 𝘼𝑾𝘾᭄〆𝙆𝙂𝙉",
     "level": 104,
     "exp": 12506
-  },
-  {
-    "name": "Renxs ajah",
-    "level": 103,
-    "exp": 20476
   },
   {
     "name": "tiya nak meletop",
@@ -282,7 +282,7 @@
   {
     "name": "krammahiru",
     "level": 97,
-    "exp": 4539
+    "exp": 7343
   },
   {
     "name": "V | order am prem pm",
@@ -412,12 +412,12 @@
   {
     "name": "ʏᴀɴɴ sᴏᴘ sᴘᴏᴋᴇɴ",
     "level": 64,
-    "exp": 3551
+    "exp": 5126
   },
   {
     "name": "bgsss",
     "level": 64,
-    "exp": 9767
+    "exp": 11483
   },
   {
     "name": "Zant aja.",
@@ -550,6 +550,11 @@
     "exp": 7103
   },
   {
+    "name": "Lintzy",
+    "level": 45,
+    "exp": 2856
+  },
+  {
     "name": "Shou desuwa!",
     "level": 44,
     "exp": 5417
@@ -558,11 +563,6 @@
     "name": "buzz",
     "level": 44,
     "exp": 3651
-  },
-  {
-    "name": "Lintzy",
-    "level": 44,
-    "exp": 8106
   },
   {
     "name": "Enejotaa.",
@@ -627,7 +627,7 @@
   {
     "name": "—𝙕𝙚𝙧𝙤 𝖋𝖙 𝙆𝙂𝙉〆𝐍𝐂𝐀᭄",
     "level": 39,
-    "exp": 5797
+    "exp": 6721
   },
   {
     "name": "✓Mars★",
@@ -652,7 +652,7 @@
   {
     "name": "Kalau'Yamibana (闇花).",
     "level": 35,
-    "exp": 5335
+    "exp": 5399
   },
   {
     "name": ".",
@@ -677,7 +677,7 @@
   {
     "name": "wann",
     "level": 34,
-    "exp": 1847
+    "exp": 4452
   },
   {
     "name": "Ryo",
@@ -695,6 +695,11 @@
     "exp": 4673
   },
   {
+    "name": "Farid",
+    "level": 32,
+    "exp": 3640
+  },
+  {
     "name": "Ciel kadang kiding",
     "level": 31,
     "exp": 4301
@@ -702,12 +707,7 @@
   {
     "name": "Adit",
     "level": 31,
-    "exp": 4639
-  },
-  {
-    "name": "Farid",
-    "level": 31,
-    "exp": 2750
+    "exp": 5245
   },
   {
     "name": "𝙍𝙚𝙣𝙣 𝙎𝙖𝙣𝙯𝙤",
@@ -757,7 +757,7 @@
   {
     "name": "ucup si hytam",
     "level": 28,
-    "exp": 5070
+    "exp": 5368
   },
   {
     "name": "𝗥𝗲𝘆𝘇𝘇𝙒𝙖𝙖𝙣𝙦𝙩 𝙆𝙂𝙉",
@@ -767,7 +767,7 @@
   {
     "name": "D",
     "level": 28,
-    "exp": 6
+    "exp": 1490
   },
   {
     "name": "bwitak",
@@ -827,7 +827,7 @@
   {
     "name": "Hamzz",
     "level": 25,
-    "exp": 3459
+    "exp": 4406
   },
   {
     "name": "𝗞𝗮𝘇𝗶𝗿𝗼𝗼 𝗘𝗻𝘃𝗲𝗿𝘆𝗼𝗹𝗱",
@@ -907,7 +907,7 @@
   {
     "name": "mutsumi",
     "level": 23,
-    "exp": 1961
+    "exp": 4138
   },
   {
     "name": "𝐅𝐚𝐝𝐥𝐲〆𝙆𝙂𝙉",
@@ -987,7 +987,7 @@
   {
     "name": "jual am Prem 5k",
     "level": 20,
-    "exp": 2579
+    "exp": 2732
   },
   {
     "name": "ilhamtzy",
@@ -1087,7 +1087,7 @@
   {
     "name": "cahyo",
     "level": 18,
-    "exp": 712
+    "exp": 736
   },
   {
     "name": "shahrul",
@@ -1097,7 +1097,7 @@
   {
     "name": "𝙮𝙖𝙢𝙪𝙧𝙖✰シ︎",
     "level": 17,
-    "exp": 837
+    "exp": 1455
   },
   {
     "name": "AFDAL",
@@ -1202,7 +1202,7 @@
   {
     "name": "zeussy",
     "level": 16,
-    "exp": 1309
+    "exp": 1589
   },
   {
     "name": "Mayuiii Shiiinn",
@@ -1212,7 +1212,7 @@
   {
     "name": "𝙍𝙮𝙣𝙚 𝖋𝖙 𝙆𝙂𝙉",
     "level": 16,
-    "exp": 19
+    "exp": 1551
   },
   {
     "name": "𝙆𝙖𝙡𝙡𝙥𝙧𝙨𝙩𝙯 𝙀𝙣𝙘𝙚`𝙖 𝙊𝙀𝙉` 𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -1332,7 +1332,7 @@
   {
     "name": "𝐫𝐚𝐧𝐳𝐬",
     "level": 14,
-    "exp": 728
+    "exp": 887
   },
   {
     "name": "𝐤𝐞𝐧-𝐳𝐢𝐞𝐞?",
@@ -1348,6 +1348,11 @@
     "name": "Belaa ベル",
     "level": 14,
     "exp": 2222
+  },
+  {
+    "name": "dit senpai",
+    "level": 14,
+    "exp": 38
   },
   {
     "name": "𝙆𝙞𝙣𝙯",
@@ -1387,7 +1392,7 @@
   {
     "name": "langs",
     "level": 13,
-    "exp": 1498
+    "exp": 1559
   },
   {
     "name": "Dio Victoriaa andzenta.",
@@ -1430,6 +1435,11 @@
     "exp": 293
   },
   {
+    "name": "𝙎𝙖𝙣𝙭𝙭𝙮Xyntra 𝖋𝖙 𝙆𝙂𝙉",
+    "level": 13,
+    "exp": 919
+  },
+  {
     "name": "RATU",
     "level": 13,
     "exp": 353
@@ -1457,7 +1467,7 @@
   {
     "name": "No Name",
     "level": 12,
-    "exp": 2044
+    "exp": 2155
   },
   {
     "name": "El Sans | SansStore",
@@ -1498,11 +1508,6 @@
     "name": "Danzee",
     "level": 12,
     "exp": 840
-  },
-  {
-    "name": "𝙎𝙖𝙣𝙭𝙭𝙮Xyntra 𝖋𝖙 𝙆𝙂𝙉",
-    "level": 12,
-    "exp": 2212
   },
   {
     "name": "༄𝟒𝐒||𝙞𝙯𝙪𝙢𝙞𝙞`silent-𝐗࿐",
@@ -1550,14 +1555,14 @@
     "exp": 1042
   },
   {
-    "name": "dit senpai",
-    "level": 12,
-    "exp": 419
-  },
-  {
     "name": "𝙍𝙞𝙯𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 12,
     "exp": 501
+  },
+  {
+    "name": "Ruuchan 霧島",
+    "level": 12,
+    "exp": 79
   },
   {
     "name": "quinzxxxxyyyyy",
@@ -1587,7 +1592,7 @@
   {
     "name": "Kaito",
     "level": 11,
-    "exp": 683
+    "exp": 2068
   },
   {
     "name": "jiyuu",
@@ -1655,6 +1660,11 @@
     "exp": 656
   },
   {
+    "name": "why?",
+    "level": 11,
+    "exp": 280
+  },
+  {
     "name": "rem",
     "level": 11,
     "exp": 1942
@@ -1670,14 +1680,9 @@
     "exp": 1735
   },
   {
-    "name": "Ruuchan 霧島",
-    "level": 11,
-    "exp": 1682
-  },
-  {
     "name": "DILL•",
     "level": 10,
-    "exp": 1635
+    "exp": 1803
   },
   {
     "name": "Rey",
@@ -1750,9 +1755,9 @@
     "exp": 1119
   },
   {
-    "name": "why?",
+    "name": "kentang🍟",
     "level": 10,
-    "exp": 1671
+    "exp": 602
   },
   {
     "name": "𝐋𝐲𝐲",
@@ -1930,11 +1935,6 @@
     "exp": 224
   },
   {
-    "name": "kentang🍟",
-    "level": 9,
-    "exp": 1549
-  },
-  {
     "name": "ryne (arin)",
     "level": 9,
     "exp": 1052
@@ -1952,7 +1952,7 @@
   {
     "name": "『XCT』𝙍𝙖𝙥",
     "level": 8,
-    "exp": 218
+    "exp": 530
   },
   {
     "name": "ikan hiu makan tomat 🦈🍅",
@@ -2097,12 +2097,12 @@
   {
     "name": "saya siapa dan kamu siapa",
     "level": 8,
-    "exp": 345
+    "exp": 349
   },
   {
     "name": "𝘔𝘰𝘰𝘯 𝘚𝘵𝘰𝘳𝘦 𝘐𝘋`𝐍𝐂𝐀᭄",
     "level": 8,
-    "exp": 1181
+    "exp": 1373
   },
   {
     "name": "Faxyy",
@@ -2307,12 +2307,12 @@
   {
     "name": "𝐝𝐢𝐤𝐬𝐬",
     "level": 7,
-    "exp": 315
+    "exp": 331
   },
   {
     "name": "Neca",
     "level": 7,
-    "exp": 663
+    "exp": 855
   },
   {
     "name": "𝙆𝙂𝙉 𝙁𝙖𝙩𝙝〆𝙓𝙁 𝖋𝖙 𝐍𝐂𝐀᭄",
@@ -2382,7 +2382,7 @@
   {
     "name": "riichaan🧣",
     "level": 6,
-    "exp": 108
+    "exp": 291
   },
   {
     "name": "Sanzzz",
@@ -2947,7 +2947,7 @@
   {
     "name": "‎久 - 𝑵𝒂𝒏𝒅𝒉𝒂𝒂 𝖋𝖙 𝙆𝙂𝙉",
     "level": 5,
-    "exp": 385
+    "exp": 661
   },
   {
     "name": "Val? apa woy?",
@@ -2992,7 +2992,7 @@
   {
     "name": "𝙈𝙞𝙠𝙪 𝙭\n𝙈𝙞𝙠𝙪",
     "level": 5,
-    "exp": 534
+    "exp": 712
   },
   {
     "name": "—𝐋𝐚𝐧𝐳𝐳〆𝙆𝙂𝙉 𝖋𝖙 𝐄𝐍𝐋᭄",
@@ -3342,7 +3342,7 @@
   {
     "name": "xiao",
     "level": 4,
-    "exp": 628
+    "exp": 645
   },
   {
     "name": ".",
@@ -3595,9 +3595,14 @@
     "exp": 116
   },
   {
-    "name": "Fadd",
+    "name": "今 - 𝙁𝙖𝙙𝙙𝙆𝙮𝙤𝙠𝙚𝙣`𝙂𝘾",
     "level": 4,
-    "exp": 362
+    "exp": 489
+  },
+  {
+    "name": ".",
+    "level": 4,
+    "exp": 32
   },
   {
     "name": "p",
@@ -3662,7 +3667,7 @@
   {
     "name": "Mir O'Conner",
     "level": 4,
-    "exp": 148
+    "exp": 504
   },
   {
     "name": "rann",
@@ -3677,12 +3682,12 @@
   {
     "name": "𝙽𝙰𝚄𝙵𝙰𝙻 𝙿𝚁𝙴𝚂𝙴𝚃",
     "level": 4,
-    "exp": 222
+    "exp": 224
   },
   {
     "name": "Ryuzu嵐",
     "level": 4,
-    "exp": 325
+    "exp": 457
   },
   {
     "name": "dits aja",
@@ -3957,7 +3962,7 @@
   {
     "name": "kyokyoo 🎀",
     "level": 3,
-    "exp": 440
+    "exp": 479
   },
   {
     "name": "ryu",
@@ -3972,7 +3977,7 @@
   {
     "name": "Jihuun",
     "level": 3,
-    "exp": 365
+    "exp": 406
   },
   {
     "name": "velxz!?",
@@ -4052,7 +4057,7 @@
   {
     "name": "mdyz",
     "level": 3,
-    "exp": 365
+    "exp": 391
   },
   {
     "name": "𝙨𝙤𝙣𝙚𝙩𝙖.",
@@ -4117,7 +4122,7 @@
   {
     "name": "Prazz✰",
     "level": 3,
-    "exp": 335
+    "exp": 347
   },
   {
     "name": "𝘿𝙖𝙣𝙣𝙠𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -4152,7 +4157,7 @@
   {
     "name": "𝟐𝟎𝟑 α, k𝖾nz !",
     "level": 3,
-    "exp": 386
+    "exp": 391
   },
   {
     "name": "JJNGprest",
@@ -4310,11 +4315,6 @@
     "exp": 254
   },
   {
-    "name": ".",
-    "level": 3,
-    "exp": 433
-  },
-  {
     "name": "──𝐍𝐝𝐚𐦍༘",
     "level": 3,
     "exp": 1
@@ -4367,7 +4367,7 @@
   {
     "name": "'syiaa `𝐂𝐘𝐋 𖣂︎⁩",
     "level": 3,
-    "exp": 426
+    "exp": 450
   },
   {
     "name": "Staria☆",
@@ -4377,7 +4377,7 @@
   {
     "name": "𝒘𝒂𝒇𝒂𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 3,
-    "exp": 182
+    "exp": 265
   },
   {
     "name": "—͟͞͞𝙈𝙖𝙧𝙡𝙤𝙣𝙜𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -4422,12 +4422,12 @@
   {
     "name": "shin",
     "level": 3,
-    "exp": 335
+    "exp": 451
   },
   {
     "name": "Skyy-Grandz",
     "level": 3,
-    "exp": 259
+    "exp": 323
   },
   {
     "name": "Michael",
@@ -4438,6 +4438,11 @@
     "name": "npc",
     "level": 3,
     "exp": 76
+  },
+  {
+    "name": "𝟒𝐆 || 𝙔𝙪𝙯𝙖𝙆𝙖𝙜𝙚𝙣𝙤𝙪`【桜の花】",
+    "level": 3,
+    "exp": 288
   },
   {
     "name": "belva",
@@ -5427,7 +5432,7 @@
   {
     "name": "yaw ini SanZz",
     "level": 2,
-    "exp": 221
+    "exp": 231
   },
   {
     "name": "ヴィンセント・フェルナンド",
@@ -5487,7 +5492,7 @@
   {
     "name": "waan",
     "level": 2,
-    "exp": 168
+    "exp": 197
   },
   {
     "name": "Arga Sebelum Before",
@@ -5657,7 +5662,7 @@
   {
     "name": "violethhh",
     "level": 2,
-    "exp": 159
+    "exp": 186
   },
   {
     "name": "𝙍𝙞𝙙𝙯 𝖋𝖙 𝙆𝙂𝙉",
@@ -5782,7 +5787,7 @@
   {
     "name": "𝙍𝙮𝙪𝙠𝙖𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 2,
-    "exp": 59
+    "exp": 72
   },
   {
     "name": "—𝐍𝐞𝐱𝐨〆𝙆𝙂𝙉🇬🇧",
@@ -5795,9 +5800,14 @@
     "exp": 153
   },
   {
-    "name": "𝟒𝐆 || 𝙔𝙪𝙯𝙖𝙆𝙖𝙜𝙚𝙣𝙤𝙪`【桜の花】",
+    "name": "—𝐃𝐈𝐊𝐒𝐒〆𝙆𝙂𝙉",
     "level": 2,
-    "exp": 52
+    "exp": 41
+  },
+  {
+    "name": "Kyoomatcha",
+    "level": 2,
+    "exp": 286
   },
   {
     "name": "Nindy pcr cid",
@@ -8552,7 +8562,7 @@
   {
     "name": "xeesoxee",
     "level": 1,
-    "exp": 63
+    "exp": 73
   },
   {
     "name": "Jezz☕",
@@ -9003,15 +9013,5 @@
     "name": "a",
     "level": 1,
     "exp": 45
-  },
-  {
-    "name": "—𝐃𝐈𝐊𝐒𝐒〆𝙆𝙂𝙉",
-    "level": 1,
-    "exp": 61
-  },
-  {
-    "name": "Kyoomatcha",
-    "level": 1,
-    "exp": 46
   }
 ]
