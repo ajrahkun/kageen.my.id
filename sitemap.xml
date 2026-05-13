@@ -4,10 +4,12 @@
     <loc>https://kageen.my.id/</loc>
     <lastmod>2026-02-27</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://kageen.my.id/join.html</loc>
+    <loc>https://kageen.my.id/join</loc>
     <lastmod>2026-02-27</lastmod>
     <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
