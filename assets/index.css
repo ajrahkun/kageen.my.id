@@ -732,6 +732,77 @@ td {
   box-sizing: border-box;
 }
 
+.top-absensi-section {
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.top-absensi-list {
+  padding: 0 16px;
+  margin: 30px auto 0;
+  max-width: 700px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.top-absensi-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 15px 20px;
+  margin-bottom: 10px;
+
+  border-radius: 12px;
+
+  background: rgba(20,20,20,0.6);
+  backdrop-filter: blur(3px);
+
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.absensi-rank {
+  width: 40px;
+  font-weight: bold;
+}
+
+.absensi-name {
+  flex: 1;
+  text-align: left;
+  font-weight: 600;
+}
+
+.absensi-gen {
+  width: 70px;
+  font-weight: bold;
+}
+
+.absensi-date {
+  color: #aaa;
+  font-size: 13px;
+}
+
+.absensi-subtitle {
+  margin-top: -5px;
+  margin-bottom: 25px;
+  color: #888;
+  font-size: 0.8rem;
+}
+
+@media (max-width:600px) {
+  .top-absensi-item {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .absensi-name,
+  .absensi-gen,
+  .absensi-date {
+    width: auto;
+    text-align: center;
+  }
+}
+
 @media (max-width: 600px) {
   .top-member-list li {
     padding: 12px 14px;
