@@ -1049,11 +1049,7 @@ tbody tr {
   }
 
   table {
-    font-size: 14px;
-  }
-
-  th, td {
-    padding: 10px 6px;
+    font-size: 0.9rem;
   }
 }
 
