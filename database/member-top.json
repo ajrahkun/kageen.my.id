@@ -71,8 +71,8 @@
   },
   {
     "name": "Franss.",
-    "level": 647,
-    "exp": 118621
+    "level": 648,
+    "exp": 43133
   },
   {
     "name": "Zumii store",
@@ -101,13 +101,13 @@
   },
   {
     "name": "Sumika AI. ✨ III",
-    "level": 556,
-    "exp": 98582
+    "level": 557,
+    "exp": 62325
   },
   {
     "name": "Mikaell",
-    "level": 539,
-    "exp": 66333
+    "level": 540,
+    "exp": 11712
   },
   {
     "name": "S𝗻𝗮𝘀zZ",
@@ -121,8 +121,8 @@
   },
   {
     "name": "Alisa Senpai",
-    "level": 515,
-    "exp": 39790
+    "level": 516,
+    "exp": 23076
   },
   {
     "name": "‎",
@@ -1192,12 +1192,17 @@
   {
     "name": "⑅𝑾𝐈𝐧𝐝𝐲_[51℅]⑅",
     "level": 59,
-    "exp": 1737
+    "exp": 3433
   },
   {
     "name": "A",
     "level": 58,
     "exp": 74
+  },
+  {
+    "name": "—𝐃𝐞𝐝𝐞𝐞〆𝙆𝙂𝙉",
+    "level": 58,
+    "exp": 90
   },
   {
     "name": "𝙎𝙝𝙞𝙣𝙭𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -1228,11 +1233,6 @@
     "name": "shinn sensei",
     "level": 57,
     "exp": 7180
-  },
-  {
-    "name": "—𝐃𝐞𝐝𝐞𝐞〆𝙆𝙂𝙉",
-    "level": 57,
-    "exp": 6621
   },
   {
     "name": "𝙍𝙞𝙛𝙯𝙯𝙓𝙖𝙨𝙪",
@@ -1270,6 +1270,11 @@
     "exp": 6791
   },
   {
+    "name": "𝗙𝗮𝗹𝗹 𝙎𝙚𝙣𝙥𝙖𝙞 𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
+    "level": 55,
+    "exp": 215
+  },
+  {
     "name": "Réxzz ini saya",
     "level": 54,
     "exp": 381
@@ -1278,11 +1283,6 @@
     "name": "nepaw",
     "level": 54,
     "exp": 4982
-  },
-  {
-    "name": "𝗙𝗮𝗹𝗹 𝙎𝙚𝙣𝙥𝙖𝙞 𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
-    "level": 54,
-    "exp": 9861
   },
   {
     "name": "ray buram gerak",
@@ -1752,7 +1752,7 @@
   {
     "name": "𝖋𝖎𝖉𝖟𝖟350𝐟𝐭 𝐀𝐂",
     "level": 38,
-    "exp": 3491
+    "exp": 3902
   },
   {
     "name": "MAULL🗿☕",
@@ -2227,7 +2227,7 @@
   {
     "name": "𝙆𝙚𝙣𝙯𝙞𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 29,
-    "exp": 1734
+    "exp": 1973
   },
   {
     "name": "—𝐅𝐄𝐑𝐑〆𝙆𝙂𝙉",
@@ -2302,7 +2302,7 @@
   {
     "name": "_Ndraa",
     "level": 27,
-    "exp": 2319
+    "exp": 2764
   },
   {
     "name": "𝙉𝙖𝙗𝙞𝙡𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
@@ -3567,7 +3567,7 @@
   {
     "name": "𝘼𝙯𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪 𝖋𝖙 𝐍𝐂𝐀᭄",
     "level": 16,
-    "exp": 271
+    "exp": 500
   },
   {
     "name": "mireyaaakagenouuu",
@@ -3637,7 +3637,7 @@
   {
     "name": "—𝗗𝘆𝘆〆𝗥𝗲𝗻",
     "level": 16,
-    "exp": 58
+    "exp": 161
   },
   {
     "name": "🌎",
@@ -3787,7 +3787,7 @@
   {
     "name": "honey",
     "level": 15,
-    "exp": 1066
+    "exp": 1294
   },
   {
     "name": "a",
@@ -3842,7 +3842,7 @@
   {
     "name": "𝙆𝙚𝙣𝙯𝙆𝙖𝙜𝙚𝙣𝙤𝙪〆𝙒𝙨",
     "level": 15,
-    "exp": 103
+    "exp": 426
   },
   {
     "name": "𝙕𝙚𝙩𝙨𝙪 𝖋𝖙 𝙆𝙂𝙉",
@@ -4152,7 +4152,7 @@
   {
     "name": ".",
     "level": 13,
-    "exp": 774
+    "exp": 821
   },
   {
     "name": "حافظ",
@@ -4272,7 +4272,7 @@
   {
     "name": "TOIP",
     "level": 13,
-    "exp": 1986
+    "exp": 2218
   },
   {
     "name": "🌹",
@@ -5095,6 +5095,11 @@
     "exp": 458
   },
   {
+    "name": "—𝐏𝐢𝐧𝐚𝐤𝐢𝐥𝐥𝐮𝐚〆𝙆𝙂𝙉",
+    "level": 10,
+    "exp": 22
+  },
+  {
     "name": "udin japan(jawa pacitan)",
     "level": 10,
     "exp": 699
@@ -5548,11 +5553,6 @@
     "name": "ZayyKGN X fly high`𝐍𝐂𝐀᭄",
     "level": 9,
     "exp": 847
-  },
-  {
-    "name": "—𝐏𝐢𝐧𝐚𝐤𝐢𝐥𝐥𝐮𝐚〆𝙆𝙂𝙉",
-    "level": 9,
-    "exp": 1566
   },
   {
     "name": "𝙍𝙚𝙛𝙖𝙣ツ",
@@ -7402,7 +7402,7 @@
   {
     "name": "—𝐀𝐛𝐜𝐝𝐳𝐢𝐝〆𝙆𝙂𝙉",
     "level": 6,
-    "exp": 237
+    "exp": 493
   },
   {
     "name": "Sarep",
@@ -7512,7 +7512,7 @@
   {
     "name": "meow🎀",
     "level": 5,
-    "exp": 391
+    "exp": 402
   },
   {
     "name": "𝙣𝙚𝙭𝙩 𝖋𝖙 𝐍𝐂𝐀᭄",
@@ -10545,6 +10545,11 @@
     "exp": 95
   },
   {
+    "name": "Ryuuxc",
+    "level": 3,
+    "exp": 1
+  },
+  {
     "name": "tenkaxvanz",
     "level": 3,
     "exp": 45
@@ -10682,7 +10687,7 @@
   {
     "name": "Kepada Yth. epan lenathea",
     "level": 3,
-    "exp": 288
+    "exp": 325
   },
   {
     "name": "RAMA PRESET",
@@ -12303,11 +12308,6 @@
     "name": "fizh",
     "level": 2,
     "exp": 245
-  },
-  {
-    "name": "Ryuuxc",
-    "level": 2,
-    "exp": 289
   },
   {
     "name": "R.",
@@ -16088,5 +16088,10 @@
     "name": "ALL MARGA",
     "level": 1,
     "exp": 96
+  },
+  {
+    "name": "I.E.C Flex",
+    "level": 1,
+    "exp": 20
   }
 ]
