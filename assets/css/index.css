@@ -161,7 +161,7 @@ p {
 }
 
 .fade-out {
-  animation: fadeOut 0.1s ease-out forwards;
+  animation: fadeOut 0.3s ease-out forwards;
 }
 
 .hero-section {
