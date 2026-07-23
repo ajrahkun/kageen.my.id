@@ -35,17 +35,30 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js'></script>
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
-    <script type='application/ld+json'>
+    <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Kagenou Family",
-        "url": "https://kageen.my.id",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://kageen.my.id/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
+        "@graph": [
+            {
+                "@type": "WebSite",
+                "@id": "https://kageen.my.id/#website",
+                "url": "https://kageen.my.id/",
+                "name": "Kagenou Family",
+                "description": "Marga kreator anime nomor 1 di Indonesia."
+            },
+            {
+                "@type": "SiteNavigationElement",
+                "@id": "https://kageen.my.id/#nav-tools",
+                "name": "Kagenou Simple Tools Hub",
+                "url": "https://kageen.my.id/tools"
+            },
+            {
+                "@type": "SiteNavigationElement",
+                "@id": "https://kageen.my.id/#nav-join",
+                "name": "Join Now in Kagenou Family",
+                "url": "https://kageen.my.id/join"
+            }
+        ]
     }
     </script>
 
