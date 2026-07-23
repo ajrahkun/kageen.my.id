@@ -7,13 +7,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://kageen.my.id/tools</loc>
+    <loc>https://kageen.my.id/join</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.90</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://kageen.my.id/join</loc>
+    <loc>https://kageen.my.id/tools</loc>
     <lastmod>2026-07-23</lastmod>
     <priority>0.80</priority>
     <changefreq>weekly</changefreq>
