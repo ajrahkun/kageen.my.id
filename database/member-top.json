@@ -105,9 +105,9 @@
     "exp": 20333
   },
   {
-    "name": "Alisa Senpai",
+    "name": "Alisa : Aku lagi sebar Dana Kaget nih ! Yuk, sikat segera sebelum melaya",
     "level": 659,
-    "exp": 72289
+    "exp": 82739
   },
   {
     "name": "ーいぇのう",
@@ -436,8 +436,8 @@
   },
   {
     "name": "panggil aku rijal😏",
-    "level": 212,
-    "exp": 42290
+    "level": 213,
+    "exp": 5150
   },
   {
     "name": "JASTIN BIBER",
@@ -1767,7 +1767,7 @@
   {
     "name": "Who?",
     "level": 53,
-    "exp": 9319
+    "exp": 10148
   },
   {
     "name": "Xsyanzz!",
@@ -2282,7 +2282,7 @@
   {
     "name": "Kaye'er Senpai",
     "level": 39,
-    "exp": 994
+    "exp": 1450
   },
   {
     "name": "Nala",
@@ -3080,6 +3080,11 @@
     "exp": 815
   },
   {
+    "name": "𝙍𝙮𝙭𝙯𝙯𝙆𝙂𝙉〆𝐍𝐂𝐀᭄",
+    "level": 28,
+    "exp": 797
+  },
+  {
     "name": "ABHIE",
     "level": 28,
     "exp": 923
@@ -3153,11 +3158,6 @@
     "name": "alpaca",
     "level": 27,
     "exp": 4721
-  },
-  {
-    "name": "𝙍𝙮𝙭𝙯𝙯𝙆𝙂𝙉〆𝐍𝐂𝐀᭄",
-    "level": 27,
-    "exp": 4756
   },
   {
     "name": "ラナ",
@@ -3717,7 +3717,7 @@
   {
     "name": "shishibaholic.",
     "level": 22,
-    "exp": 1614
+    "exp": 3995
   },
   {
     "name": "𝐀𝐬𝐮𝐧𝐚.",
@@ -4832,7 +4832,7 @@
   {
     "name": "Rditya",
     "level": 16,
-    "exp": 1145
+    "exp": 1526
   },
   {
     "name": "sulthan",
@@ -5142,7 +5142,7 @@
   {
     "name": "𝙍𝙚𝙣𝙯𝙯 𝖋𝖙 𝙆𝙂𝙉",
     "level": 15,
-    "exp": 1857
+    "exp": 1883
   },
   {
     "name": "qill",
@@ -6742,7 +6742,7 @@
   {
     "name": ".",
     "level": 10,
-    "exp": 1125
+    "exp": 1262
   },
   {
     "name": "—𝐍𝐢𝐞𝐥〆𝙆𝙂𝙉⁩ `𝖋𝖙 𝐍𝐂𝐀᭄",
@@ -7995,9 +7995,9 @@
     "exp": 1233
   },
   {
-    "name": "『LEAD KTT』",
+    "name": "ALOS』",
     "level": 8,
-    "exp": 65
+    "exp": 78
   },
   {
     "name": "hisyam kha",
@@ -9272,7 +9272,7 @@
   {
     "name": "viol",
     "level": 6,
-    "exp": 443
+    "exp": 492
   },
   {
     "name": "◦𝖛𝖎𝖓𝖓𝖕𝖗𝖊𝖘𝖊𝖙◦",
@@ -9325,9 +9325,9 @@
     "exp": 487
   },
   {
-    "name": "—𝐅𝐥𝐨𝐰𝐰〆𝙆𝙂𝙉",
+    "name": "......",
     "level": 6,
-    "exp": 84
+    "exp": 176
   },
   {
     "name": "PUTRA OOSUKI 𝖋𝖙`𝐒𝐅𝐂",
@@ -10415,9 +10415,9 @@
     "exp": 201
   },
   {
-    "name": "Neccaa'",
+    "name": "Neccaa`",
     "level": 5,
-    "exp": 488
+    "exp": 576
   },
   {
     "name": "𝕮 Ax`𝗣𝗲𝗱𝗼 𝗟𝗖𝗙 🍁",
@@ -11642,7 +11642,7 @@
   {
     "name": "~𝐍𝐚𝐧𝐳",
     "level": 4,
-    "exp": 103
+    "exp": 152
   },
   {
     "name": "𝙍𝙪𝙣𝙖𝙖 ʚଓ",
@@ -17752,6 +17752,16 @@
   {
     "name": "sh",
     "level": 1,
-    "exp": 7
+    "exp": 14
+  },
+  {
+    "name": "𝙕𝙚𝙩𝙨𝙪𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
+    "level": 1,
+    "exp": 58
+  },
+  {
+    "name": "~A",
+    "level": 1,
+    "exp": 5
   }
 ]
