@@ -332,7 +332,7 @@
   {
     "name": "𝙍𝙞𝙛",
     "level": 326,
-    "exp": 31799
+    "exp": 41850
   },
   {
     "name": "lalaa",
@@ -572,7 +572,7 @@
   {
     "name": "Buzz",
     "level": 185,
-    "exp": 4769
+    "exp": 7608
   },
   {
     "name": "姫奈空",
@@ -837,7 +837,7 @@
   {
     "name": "'𝙆𝙖𝙮𝙮𝙯 𝖋𝖙 𝙀𝙂𝙎.",
     "level": 125,
-    "exp": 11355
+    "exp": 14763
   },
   {
     "name": "raka sudah bisa ngedit",
@@ -1047,7 +1047,7 @@
   {
     "name": "Kiya Senpai",
     "level": 101,
-    "exp": 3333
+    "exp": 5260
   },
   {
     "name": "B!mzy | 𝐃𝐒𝐓𝐑 | 𝐓𝐇",
@@ -2927,7 +2927,7 @@
   {
     "name": "先 - yura 𝐍𝐂𝐀᭄ 𝖋𝖙 𝙆𝙂𝙉",
     "level": 32,
-    "exp": 1596
+    "exp": 2346
   },
   {
     "name": "–xʏɴɴ :P",
@@ -3212,7 +3212,7 @@
   {
     "name": "bel",
     "level": 29,
-    "exp": 1952
+    "exp": 2313
   },
   {
     "name": "marzzzprst",
@@ -3330,6 +3330,11 @@
     "exp": 2293
   },
   {
+    "name": "al",
+    "level": 28,
+    "exp": 1197
+  },
+  {
     "name": "𝐙𝐚𝐘𝐲 𝖋𝖙 𝙆𝙂𝙉〆𝐍𝐂𝐀᭄",
     "level": 28,
     "exp": 5223
@@ -3408,11 +3413,6 @@
     "name": "𝗗𝘆𝘆`𝐬 𝙎𝙚𝙣𝙥𝙖𝙞",
     "level": 27,
     "exp": 3457
-  },
-  {
-    "name": "al",
-    "level": 27,
-    "exp": 4345
   },
   {
     "name": "Shin",
@@ -12007,7 +12007,7 @@
   {
     "name": "Zan",
     "level": 4,
-    "exp": 470
+    "exp": 524
   },
   {
     "name": "npc",
@@ -14395,6 +14395,11 @@
     "exp": 14
   },
   {
+    "name": "Renako Shinju",
+    "level": 3,
+    "exp": 135
+  },
+  {
     "name": "Dirga",
     "level": 3,
     "exp": 218
@@ -16568,11 +16573,6 @@
     "name": "𝙡𝙚𝙣𝙯𝙯𝙮𝙆𝙖𝙜𝙚𝙣𝙤𝙪",
     "level": 2,
     "exp": 46
-  },
-  {
-    "name": "Renako Shinju",
-    "level": 2,
-    "exp": 294
   },
   {
     "name": "falz",
