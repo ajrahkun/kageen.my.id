@@ -675,14 +675,14 @@
     "exp": 28344
   },
   {
+    "name": "Kiya Senpai",
+    "level": 161,
+    "exp": 1621
+  },
+  {
     "name": "ell",
     "level": 161,
     "exp": 3909
-  },
-  {
-    "name": "Kiya Senpai",
-    "level": 160,
-    "exp": 30861
   },
   {
     "name": "シャチ",
@@ -3472,7 +3472,7 @@
   {
     "name": "Jiyuu",
     "level": 26,
-    "exp": 1908
+    "exp": 2385
   },
   {
     "name": "—𝐒𝐲𝐡𝐞𝐢〆𝙆𝙂𝙉",
@@ -5337,7 +5337,7 @@
   {
     "name": "—𝐈𝐤𝐲𝐲𝐲〆𝙆𝙂𝙉",
     "level": 16,
-    "exp": 679
+    "exp": 1004
   },
   {
     "name": "Raven",
@@ -6837,7 +6837,7 @@
   {
     "name": "i don't now",
     "level": 11,
-    "exp": 1642
+    "exp": 1933
   },
   {
     "name": "Eji",
@@ -11587,7 +11587,7 @@
   {
     "name": "オマンだよ",
     "level": 5,
-    "exp": 92
+    "exp": 107
   },
   {
     "name": "Semua",
@@ -12947,7 +12947,7 @@
   {
     "name": "ī.am/αjřα. ",
     "level": 4,
-    "exp": 254
+    "exp": 322
   },
   {
     "name": "𝙄𝙠𝙮𝙮 𝖋𝖙 𝙆𝙂𝙉",
@@ -14285,6 +14285,11 @@
     "exp": 420
   },
   {
+    "name": "ᴀʀɪʟ ʟᴇʙɪʜ ʙᴇᴛᴛᴇʀ",
+    "level": 3,
+    "exp": 1
+  },
+  {
     "name": "Reinn",
     "level": 3,
     "exp": 34
@@ -14438,6 +14443,11 @@
     "name": ".",
     "level": 3,
     "exp": 208
+  },
+  {
+    "name": "🦩",
+    "level": 3,
+    "exp": 0
   },
   {
     "name": "Renako Shinju",
@@ -16192,7 +16202,7 @@
   {
     "name": "grey.",
     "level": 2,
-    "exp": 122
+    "exp": 167
   },
   {
     "name": "RYUNA",
@@ -16268,11 +16278,6 @@
     "name": "-★?~braush",
     "level": 2,
     "exp": 143
-  },
-  {
-    "name": "ᴀʀɪʟ ʟᴇʙɪʜ ʙᴇᴛᴛᴇʀ",
-    "level": 2,
-    "exp": 281
   },
   {
     "name": "—𝐀𝐩𝐚𝐰𝐞𝐡〆𝙆𝙂𝙉",
@@ -16628,11 +16633,6 @@
     "name": "𝗔𝗹𝗹 𝖋𝖙 𝗞𝗮𝗴𝗲𝗻𝗼𝘂",
     "level": 2,
     "exp": 233
-  },
-  {
-    "name": "🦩",
-    "level": 2,
-    "exp": 276
   },
   {
     "name": "Woi",
@@ -19482,7 +19482,7 @@
   {
     "name": "𝐅𝐚𝐝𝐳𝐳",
     "level": 1,
-    "exp": 69
+    "exp": 72
   },
   {
     "name": "piszznomercyy28",
