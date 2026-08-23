@@ -37,7 +37,7 @@
   {
     "name": "kaell",
     "level": 1021,
-    "exp": 65549
+    "exp": 65717
   },
   {
     "name": "Aril",
@@ -51,8 +51,8 @@
   },
   {
     "name": "de L ta the WeLL WRitten",
-    "level": 950,
-    "exp": 135185
+    "level": 963,
+    "exp": 79012
   },
   {
     "name": "caca orang paling tinggi",
@@ -231,8 +231,8 @@
   },
   {
     "name": "Sihytam mengeluarkan Alip",
-    "level": 420,
-    "exp": 17672
+    "level": 428,
+    "exp": 46228
   },
   {
     "name": "𝙍𝙞𝙠𝙪",
@@ -451,8 +451,8 @@
   },
   {
     "name": "Kiya Senpai",
-    "level": 222,
-    "exp": 38058
+    "level": 223,
+    "exp": 2496
   },
   {
     "name": "Frans Senpai.",
@@ -827,7 +827,7 @@
   {
     "name": "Mileana Anastasia",
     "level": 130,
-    "exp": 8051
+    "exp": 14106
   },
   {
     "name": "Ryn after ngi xing",
@@ -3487,7 +3487,7 @@
   {
     "name": "Jiyuu",
     "level": 26,
-    "exp": 3013
+    "exp": 3065
   },
   {
     "name": "rem",
@@ -4205,6 +4205,11 @@
     "exp": 4024
   },
   {
+    "name": "Sumimasen, Zumi-kun desu?",
+    "level": 21,
+    "exp": 1206
+  },
+  {
     "name": "𝙁𝙩 𝙓𝙋𝙉 メ 𝙈𝙤𝙧𝙞 𝙆𝙂𝙉",
     "level": 21,
     "exp": 1233
@@ -4348,11 +4353,6 @@
     "name": "— Náell Ence'áá",
     "level": 20,
     "exp": 2411
-  },
-  {
-    "name": "Sumimasen, Zumi-kun desu?",
-    "level": 20,
-    "exp": 2846
   },
   {
     "name": "kean??",
@@ -5887,7 +5887,7 @@
   {
     "name": "V3mpyr",
     "level": 14,
-    "exp": 60
+    "exp": 273
   },
   {
     "name": "𝘿𝙞𝙠𝙯𝙯' 𝖋𝖙 𝙆𝙂𝙉 ✨",
@@ -8142,7 +8142,7 @@
   {
     "name": "ī.am/αjřα. ",
     "level": 9,
-    "exp": 1011
+    "exp": 1069
   },
   {
     "name": "Dirga",
@@ -9572,7 +9572,7 @@
   {
     "name": "𝕽𝖎𝖐𝖏𝖎𝐂𝐒𝐓𝐒/𝐏𝐇𝐍𝐗/𝐀𝐌𝐎/𝐍𝐎𝐗🕸🕷",
     "level": 7,
-    "exp": 185
+    "exp": 301
   },
   {
     "name": "—𝐍𝐚𝐚〆𝙆𝙂𝙉",
@@ -10447,7 +10447,7 @@
   {
     "name": "オマンだよ",
     "level": 6,
-    "exp": 347
+    "exp": 366
   },
   {
     "name": "Semua",
@@ -10467,7 +10467,7 @@
   {
     "name": "rimu",
     "level": 6,
-    "exp": 281
+    "exp": 335
   },
   {
     "name": "Sarep",
@@ -10595,9 +10595,9 @@
     "exp": 150
   },
   {
-    "name": "𝙎𝙠𝙮〆𝙆𝙂𝙉",
+    "name": "⚡✧𝙎𝙠𝙮✧⚡",
     "level": 5,
-    "exp": 261
+    "exp": 308
   },
   {
     "name": "M.Arya satya Nugraha_𝙑𝙜 📷",
@@ -14542,7 +14542,7 @@
   {
     "name": "🦩",
     "level": 3,
-    "exp": 258
+    "exp": 300
   },
   {
     "name": "Renako Shinju",
@@ -19923,5 +19923,10 @@
     "name": "—Kekey Crazy!",
     "level": 1,
     "exp": 22
+  },
+  {
+    "name": "kayeno",
+    "level": 1,
+    "exp": 36
   }
 ]
