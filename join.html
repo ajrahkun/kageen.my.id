@@ -1,86 +1,138 @@
 <!DOCTYPE html>
 <html lang='id'>
 <head>
-  <meta charset='utf-8'>
-  <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
 
-  <title>Kagenou Family - Join</title>
-  <meta name='description' content='Mulailah bergabung di Kagenou Family sekarang!'>
-  <meta name='robots' content='noindex, nofollow'>
+    <title>Kagenou Family - Join</title>
+    <meta name='description' content='Mulailah bergabung di Kagenou Family sekarang!'>
+    <meta name='robots' content='noindex, nofollow'>
 
-  <meta property='og:title' content='Kagenou Family - Join Group'/>
-  <meta property='og:description' content='Selalu open recruitment. Join sekarang!'/>
-  <meta property='og:image' content='https://kageen.my.id/assets/image/pfp-join.jpeg'/>
-  <meta property='og:url' content='https://kageen.my.id/join'/>
-  <meta property='og:site_name' content='Kagenou Family'/>
+    <meta property='og:title' content='Kagenou Family - Join Group'/>
+    <meta property='og:description' content='Selalu open recruitment. Join sekarang!'/>
+    <meta property='og:image' content='https://kageen.my.id/assets/image/pfp-join.jpeg'/>
+    <meta property='og:url' content='https://kageen.my.id/join'/>
+    <meta property='og:site_name' content='Kagenou Family'/>
 
-  <link rel='canonical' href='https://kageen.my.id/join'/>
-  <link rel='icon' type='image/jpeg' href='./assets/image/pfp-selection.jpeg'>
-
-  <link rel='stylesheet' href='./assets/css/join.css?v=3'>
-
-  <script type='application/ld+json'>
-  {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Beranda",
-          "item": "https://kageen.my.id/"
-      },{
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Join",
-          "item": "https://kageen.my.id/join"
-      }]
-  }
-  </script>
+    <link rel='canonical' href='https://kageen.my.id/join'/>
+    <link rel='icon' type='image/jpeg' href='./assets/image/pfp-selection.jpeg'>
+    <link rel='stylesheet' href='./assets/css/join.css?v=5'>
 </head>
 <body>
-  <div class='card'>
-    <h1>Join ke Kagenou Family?</h1>
-    <p>sebelum join, seleksi terlebih dahulu.</p>
+    <div class='card'>
+        <div class='stepper'>
+            <div class='stepper-track'></div>
+            <div class='stepper-progress' id='stepProgress'></div>
+            <div class='step-dot active' id='dot1'>1</div>
+            <div class='step-dot' id='dot2'>2</div>
+            <div class='step-dot' id='dot3'>3</div>
+            <div class='step-dot' id='dot4'>4</div>
+            <div class='step-dot' id='dot5'>5</div>
+        </div>
 
-    <div class='actions'>
-      <button class='btn' id='goSelect'>Seleksi</button>
+        <div class='step-panel active' id='step1'>
+            <h2>Verifikasi Seleksi</h2>
+            <p>Memastikan bahwa anda bukan bot.</p>
 
-      <button class='btn icon' id='openModal' aria-label='Syarat Join'>
-        <svg viewBox='0 0 100 100'>
-          <rect x='20' y='20' width='60' height='60' transform='rotate(45 50 50)' fill='none' stroke='white' stroke-width='8' rx='6'/>
-          <rect x='35' y='35' width='30' height='30' transform='rotate(45 50 50)' fill='white'/>
-        </svg>
-      </button>
+            <div class='actions' style='margin-bottom: 16px;'>
+                <a href='https://chat.whatsapp.com/Ht9jWx6yMF33dBTLIuORcZ' target='_blank' class='btn'>Dapatkan Kode OTP</a>
+            </div>
+
+            <div style='font-size: 10.5px; color: rgba(255,255,255,0.65); margin-bottom: 14px; line-height: 1.5;'>
+                Ketik <b>.seleksi</b> di grup untuk meminta kode OTP.
+            </div>
+
+            <div class='form-group'>
+                <label for='waPhone'>Masukkan ID Seleksi :</label>
+                <input type='text' id='waPhone' class='form-input' placeholder='Contoh : 2CXEO0WX'>
+            </div>
+
+            <div class='form-group'>
+                <label for='waOtpCode'>Masukkan Kode OTP :</label>
+                <input type='text' id='waOtpCode' class='form-input' placeholder='6 digit kode ...'>
+            </div>
+
+            <div class='actions'>
+                <button class='btn primary btn-liquid' id='verifyOtpBtn' disabled>
+                    <div class='liquid-fill' id='liquidFill'></div>
+                    <span class='btn-text'>Verifikasi OTP</span>
+                </button>
+            </div>
+
+            <div id='otpErrorMsg' class='error-msg'></div>
+        </div>
+
+        <div class='step-panel' id='step2'>
+            <h1>Syarat Join Kagenou</h1>
+            <p>Baca & Pahami syarat di bawah.</p>
+
+            <ol>
+                <li>Pengikut minimal 50 atau diatas nya</li>
+                <li>Wajib posting konten terkait Anime</li>
+                <li>Akun siap Ganti Nama (Change Name)</li>
+                <li>Siap pakai Hashtag tiap post terbaru.</li>
+            </ol>
+
+            <div class='actions'>
+                <button class='btn primary' id='toStep3'>Saya Mengerti</button>
+            </div>
+        </div>
+
+        <div class='step-panel' id='step3'>
+            <h2>Pendataan Diri Anda</h2>
+            <p>Kami perlu memeriksa akun anda.</p>
+
+            <div class='form-group'>
+                <label for='ttUsername'>Masukkan Username TikTok Anda :</label>
+                <input type='text' id='ttUsername' class='form-input' placeholder='@username'>
+            </div>
+
+            <div class='actions'>
+                <button class='btn' id='backToStep2'>Kembali</button>
+                <button class='btn primary' id='toStep4' disabled>Lanjut</button>
+            </div>
+        </div>
+
+        <div class='step-panel' id='step4'>
+            <h2>Hampir Selesai!</h2>
+            <p>Posting video terbaru anda.</p>
+
+            <div class='form-group'>
+                <label for='ttVideoUrl'>Masukkan Link VT Anda :</label>
+                <input type='text' id='ttVideoUrl' class='form-input' placeholder='https://vt.tiktok.com/...'>
+            </div>
+
+            <div style='font-size: 10.5px; margin-bottom: 14px; color: rgba(255,255,255,0.6); line-height: 1.5;'>
+                Wajib gunakan hashtag <b>#margakagenou</b> atau <b>#kagenoufamily</b> pada postingan video anda.
+            </div>
+
+            <div class='actions'>
+                <button class='btn primary' id='verifyVideoBtn' disabled>Konfirmasi</button>
+            </div>
+
+            <div id='videoErrorMsg' class='error-msg'></div>
+        </div>
+
+        <div class='step-panel' id='step5'>
+            <h2>Yayy, Anda Lolos!</h2>
+            <p>Anda diterima di Kagenou Family.</p>
+
+            <div class='actions'>
+                <button class='btn primary' id='joinGroupBtn'>Gabung Grup</button>
+            </div>
+        </div>
     </div>
-    
-    <div id='memberCount' class='member-count'>
-      Memuat jumlah member ...
+
+        <div class='footer'>
+        <span class='version'>v1.0</span>
+        |
+        <a href='https://www.tiktok.com/@kagenouofficial' target='_blank' rel='noopener'>TikTok Account</a>
+        |
+        <span class='by'>by</span>
+        <a href='https://www.tiktok.com/@sorawangyy' target='_blank' rel='noopener' style='color: #ffffff; text-shadow: 0 0 8px rgba(255, 255, 255, 0.8), 0 0 16px rgba(255, 255, 255, 0.4); font-weight: 500;'>Jraa Darcy.</a>
     </div>
-  </div>
 
-  <div class='footer'>
-    <a href='https://www.tiktok.com/@kagenouofficial' target='_blank' rel='noopener'>
-      TikTok Account
-    </a>
-    |
-    <span class='by'>by</span>
-    <a href='https://www.tiktok.com/@sorawangyy' target='_blank' rel='noopener'>
-      Jraa Hikari 愛
-    </a>
-  </div>
-
-  <div class='overlay' id='modal'>
-    <div class='modal'>
-      <h2>Syarat Join Marga KGN</h2>
-      <ol>
-        <li>Pengikut minimal 50 ke atas</li>
-        <li>Wajib posting konten anime</li>
-        <li>Akun siap CN (Change Name)</li>
-        <li>Siap pakai Hashtag tiap Post.</li>
-      </ol>
-    </div>
-  </div>
-
-  <script src='./assets/js/join.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js'></script>
+    <script src='./assets/js/join.js'></script>
 </body>
 </html>
