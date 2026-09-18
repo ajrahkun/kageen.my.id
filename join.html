@@ -16,7 +16,9 @@
 
     <link rel='canonical' href='https://kageen.my.id/join'/>
     <link rel='icon' type='image/jpeg' href='./assets/image/pfp-selection.jpeg'>
-    <link rel='stylesheet' href='./assets/css/join.css?v=6'>
+    <link rel='stylesheet' href='./assets/css/join.css?v=4'>
+
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </head>
 <body>
     <div class='card'>
@@ -57,6 +59,10 @@
                     <div class='liquid-fill' id='liquidFill'></div>
                     <span class='btn-text'>Verifikasi OTP</span>
                 </button>
+            </div>
+
+            <div class='turnstile-wrapper'>
+                <div class='cf-turnstile' data-sitekey='0x4AAAAAAE7f-WAxrUDz4E-7' data-theme='dark' data-callback='onTurnstileSuccess' data-expired-callback='onTurnstileExpired'></div>
             </div>
 
             <div id='otpErrorMsg' class='error-msg'></div>
@@ -125,8 +131,8 @@
         </div>
     </div>
 
-        <div class='footer'>
-        <span class='version'>v1.1</span>
+    <div class='footer'>
+        <span class='version'>v1.2</span>
         |
         <a href='https://www.tiktok.com/@kagenouofficial' target='_blank' rel='noopener'>TikTok Account</a>
         |
@@ -134,7 +140,7 @@
         <a href='https://www.tiktok.com/@sorawangyy' target='_blank' rel='noopener' style='color: #ffffff; text-shadow: 0 0 8px rgba(255, 255, 255, 0.8), 0 0 16px rgba(255, 255, 255, 0.4); font-weight: 500;'>Jraa Darcy.</a>
     </div>
 
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/crypto-js/4.2.0/crypto-js.min.js'></script>
     <script src='./assets/js/join.js'></script>
 </body>
 </html>
