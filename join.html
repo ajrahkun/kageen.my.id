@@ -20,7 +20,7 @@
 
     <link rel='canonical' href='https://kageen.my.id/join'/>
     <link rel='icon' type='image/jpeg' href='./assets/image/pfp-selection.jpeg'>
-    <link rel='stylesheet' href='./assets/css/join.css?v=1.0.1'>
+    <link rel='stylesheet' href='./assets/css/join.css?v=1.7'>
 
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </head>
@@ -132,6 +132,21 @@
             <div class='actions'>
                 <button class='btn primary' id='joinGroupBtn'>Gabung Grup</button>
             </div>
+
+            <div id='countdownBox' style='margin-top: 16px; padding: 10px 14px; background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 10px; font-size: 11.5px; color: rgba(255, 255, 255, 0.7); text-align: center; line-height: 1.5;'>
+                <div style='display: flex; align-items: center; justify-content: center; gap: 7px; margin-bottom: 4px;'>
+                    <svg id='clockSvg' viewBox="0 0 24 24" fill="none" style="width: 16px; height: 16px; color: #ffb703; display: inline-block; vertical-align: middle;">
+                        <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"></circle>
+                        <circle cx="12" cy="12" r="1" fill="currentColor"></circle>
+                        <line id='clockHourHand' x1="12" y1="12" x2="12" y2="7.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="transform-origin: 12px 12px; transition: transform 0.5s ease-out;"></line>
+                        <line id='clockMinuteHand' x1="12" y1="12" x2="12" y2="5.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="transform-origin: 12px 12px; transition: transform 0.25s cubic-bezier(0.4, 2, 0.5, 1);"></line>
+                    </svg>
+
+                    <span style='color: rgba(255,255,255,0.9); font-weight: 500;'>Batas Waktu Bergabung :</span>
+                    <span id='timerDisplay' style='font-family: monospace; font-weight: 700; color: #ffb703; font-size: 13.5px;'>05:00</span>
+                </div>
+                <span id='timerSubText' style='font-size: 10.5px; color: rgba(255, 255, 255, 0.5);'>Segera minta bergabung di WhatsApp.</span>
+            </div>
         </div>
     </div>
 
@@ -144,7 +159,7 @@
             <span id="visitCount">...</span>
         </span>
         |
-        <span class='version'>v1.5</span>
+        <span class='version'>v1.7</span>
         |
         <a href='https://www.tiktok.com/@kagenouofficial' target='_blank' rel='noopener'>TikTok Account</a>
         |
