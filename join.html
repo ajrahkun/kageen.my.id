@@ -22,7 +22,10 @@
 
     <link rel='canonical' href='https://kageen.my.id/join'/>
     <link rel='icon' type='image/jpeg' href='https://kageen.my.id/assets/image/pfp-selection.png'>
-    <link rel='stylesheet' href='./assets/css/join.css?v=2.0'>
+
+    <script>
+        document.write("<link rel='stylesheet' href='./assets/css/join.css?t=" + Date.now() + "'>");
+    </script>
 
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 </head>
@@ -162,7 +165,7 @@
                 <span id="visitCount">...</span>
             </span>
             |
-            <span class='version'>v2.0</span>
+            <span class='version'>...</span>
             |
             <a href='https://www.tiktok.com/@kagenouofficial' target='_blank' rel='noopener'>TikTok Account</a>
             |
@@ -172,6 +175,8 @@
     </div>
 
     <script src='https://cdn.jsdelivr.net/npm/crypto-js@4.2.0/crypto-js.min.js'></script>
-    <script src='./assets/js/join.js'></script>
+    <script>
+        document.write("<script src='./assets/js/join.js?t=" + Date.now() + "'><\/script>");
+    </script>
 </body>
 </html>
